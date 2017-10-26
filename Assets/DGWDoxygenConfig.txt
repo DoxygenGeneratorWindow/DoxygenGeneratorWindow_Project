@@ -4,11 +4,11 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = ""
+PROJECT_NAME           = "DoxygenGeneratorWindow"
 PROJECT_NUMBER         = ProjectVersion
-PROJECT_BRIEF          = ""
+PROJECT_BRIEF          = "Doxygen Generator Window controller"
 PROJECT_LOGO           = 
-OUTPUT_DIRECTORY       = 
+OUTPUT_DIRECTORY       = /Users/kortex/Desktop/Repositories/DoxygenGeneratorWindow_Project/Documentation
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
 OUTPUT_LANGUAGE        = English
@@ -112,7 +112,7 @@ WARN_LOGFILE           =
 #---------------------------------------------------------------------------
 # Configuration options related to the input files
 #---------------------------------------------------------------------------
-INPUT                  = /Users/kortex/Desktop/Repositories/DoxygenGeneratorWindow_Project/
+INPUT                  = /Users/kortex/Desktop/Repositories/DoxygenGeneratorWindow_Project/Assets/DoxygenGeneratorWindow
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.c \
                          *.cc \
