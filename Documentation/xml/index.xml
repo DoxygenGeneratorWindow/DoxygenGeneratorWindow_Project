@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
-  <compound refid="class_doxygen_generator_window_1_1_d_g_w_constants" kind="class"><name>DoxygenGeneratorWindow::DGWConstants</name>
-    <member refid="class_doxygen_generator_window_1_1_d_g_w_constants_1a7a31e845f1ad6df15d15c82ea1c75d56" kind="variable"><name>K_MENU_BASE</name></member>
-    <member refid="class_doxygen_generator_window_1_1_d_g_w_constants_1a36ae58246b76b24368b32ada0cfe6618" kind="variable"><name>K_URL_DOXYGEN</name></member>
-  </compound>
-  <compound refid="namespace_doxygen_generator_window" kind="namespace"><name>DoxygenGeneratorWindow</name>
-  </compound>
   <compound refid="namespace_system" kind="namespace"><name>System</name>
   </compound>
   <compound refid="namespace_system_1_1_collections" kind="namespace"><name>System::Collections</name>
@@ -24,9 +18,13 @@
   </compound>
   <compound refid="namespace_unity_engine" kind="namespace"><name>UnityEngine</name>
   </compound>
-  <compound refid="_d_g_w_constants_8cs" kind="file"><name>DGWConstants.cs</name>
+  <compound refid="_d_g_w_config_8cs" kind="file"><name>DGWConfig.cs</name>
   </compound>
   <compound refid="_d_g_w_documentation_generator_8cs" kind="file"><name>DGWDocumentationGenerator.cs</name>
+  </compound>
+  <compound refid="_d_g_w_find_package_8cs" kind="file"><name>DGWFindPackage.cs</name>
+  </compound>
+  <compound refid="_d_g_w_macro_define_8cs" kind="file"><name>DGWMacroDefine.cs</name>
   </compound>
   <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
   </compound>

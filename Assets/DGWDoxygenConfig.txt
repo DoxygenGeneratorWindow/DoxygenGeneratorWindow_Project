@@ -5,7 +5,7 @@
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = "DoxygenGeneratorWindow"
-PROJECT_NUMBER         = ProjectVersion
+PROJECT_NUMBER         = "1.0.0"
 PROJECT_BRIEF          = "Doxygen Generator Window controller"
 PROJECT_LOGO           = 
 OUTPUT_DIRECTORY       = /Users/kortex/Desktop/Repositories/DoxygenGeneratorWindow_Project/Documentation
@@ -203,9 +203,9 @@ HTML_FOOTER            =
 HTML_STYLESHEET        = 
 HTML_EXTRA_STYLESHEET  = 
 HTML_EXTRA_FILES       = 
-HTML_COLORSTYLE_HUE    = 220
-HTML_COLORSTYLE_SAT    = 100
-HTML_COLORSTYLE_GAMMA  = 80
+HTML_COLORSTYLE_HUE    =  29
+HTML_COLORSTYLE_SAT    = 96
+HTML_COLORSTYLE_GAMMA  = 99
 HTML_TIMESTAMP         = NO
 HTML_DYNAMIC_SECTIONS  = NO
 HTML_INDEX_NUM_ENTRIES = 100

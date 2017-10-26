@@ -2,8 +2,16 @@
 <doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
   <compounddef id="md__assets__doxygen_generator_window__r_e_a_d_m_e" kind="page">
     <compoundname>md_Assets_DoxygenGeneratorWindow_README</compoundname>
-    <title>README</title>
+    <title>Doxygen© Generator Window</title>
     <detaileddescription>
-    </detaileddescription>
+<para><heading level="2">Help you to document easily your projects</heading>
+</para><para>This package is very easily to use :</para><para><itemizedlist>
+<listitem><para>in Unity3d Project select menu &gt;ideMobi&gt;Doxygen© Generator Window</para></listitem><listitem><para>select path to Doxygen© :<itemizedlist>
+<listitem><para>if Doxygen is not installed , follow instructions to download Doxygen for macOS© or Windows© at <ulink url="http://www.stack.nl/~dimitri/doxygen/index.html">http://www.stack.nl/~dimitri/doxygen/index.html</ulink></para></listitem></itemizedlist>
+</para></listitem><listitem><para>enter informations for your project</para></listitem><listitem><para>drag and drop the folder of your scripts (scan is recursive, no panic)</para></listitem><listitem><para>select the folder to output the documentation</para></listitem><listitem><para>save your config (to restore the next time the save config)</para></listitem><listitem><para><bold>generate the documentation</bold>!</para></listitem><listitem><para>be happy!</para></listitem></itemizedlist>
+</para><para><heading level="2">Copyrights</heading>
+</para><para><itemizedlist>
+<listitem><para>Copyright © 1997-2016 by Dimitri van Heesch. (<ulink url="http://www.stack.nl/~dimitri/doxygen/index.html">http://www.stack.nl/~dimitri/doxygen/index.html</ulink>)</para></listitem><listitem><para>Copyright © 2017 Apple Inc. (<ulink url="http://www.aplle.com">http://www.aplle.com</ulink>)</para></listitem><listitem><para>Copyright © 2017 Microsoft (<ulink url="http://www.microsoft.com">http://www.microsoft.com</ulink>) </para></listitem></itemizedlist>
+</para>    </detaileddescription>
   </compounddef>
 </doxygen>
