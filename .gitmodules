@@ -1,0 +1,3 @@
+[submodule "Assets/DoxygenGeneratorWindow"]
+	path = Assets/DoxygenGeneratorWindow
+	url = https://jfcontart@gitlab.hephaiscode.com/idemobi-games/DoxygenGeneratorWindow_Package.git

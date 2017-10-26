@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="class_doxygen_generator_window_1_1_d_g_w_constants" kind="class" language="C#" prot="public">
+    <compoundname>DoxygenGeneratorWindow::DGWConstants</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_doxygen_generator_window_1_1_d_g_w_constants_1a7a31e845f1ad6df15d15c82ea1c75d56" prot="public" static="no" mutable="no">
+        <type>const string</type>
+        <definition>const string DoxygenGeneratorWindow.DGWConstants.K_MENU_BASE</definition>
+        <argsstring></argsstring>
+        <name>K_MENU_BASE</name>
+        <initializer>= &quot;ideMobi&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWConstants.cs" line="12" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWConstants.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/DGWConstants.cs" line="11" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWConstants.cs" bodystart="10" bodyend="13"/>
+    <listofallmembers>
+      <member refid="class_doxygen_generator_window_1_1_d_g_w_constants_1a7a31e845f1ad6df15d15c82ea1c75d56" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConstants</scope><name>K_MENU_BASE</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
+  <compound refid="class_doxygen_generator_window_1_1_d_g_w_constants" kind="class"><name>DoxygenGeneratorWindow::DGWConstants</name>
+    <member refid="class_doxygen_generator_window_1_1_d_g_w_constants_1a7a31e845f1ad6df15d15c82ea1c75d56" kind="variable"><name>K_MENU_BASE</name></member>
+  </compound>
+  <compound refid="namespace_doxygen_generator_window" kind="namespace"><name>DoxygenGeneratorWindow</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections" kind="namespace"><name>System::Collections</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  </compound>
+  <compound refid="namespace_system_1_1_i_o" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text_1_1_regular_expressions" kind="namespace"><name>System::Text::RegularExpressions</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading" kind="namespace"><name>System::Threading</name>
+  </compound>
+  <compound refid="namespace_unity_engine" kind="namespace"><name>UnityEngine</name>
+  </compound>
+  <compound refid="_d_g_w_constants_8cs" kind="file"><name>DGWConstants.cs</name>
+  </compound>
+  <compound refid="_d_g_w_documentation_generator_8cs" kind="file"><name>DGWDocumentationGenerator.cs</name>
+  </compound>
+  <compound refid="_assets_2_doxygen_generator_window_2_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="md__assets__doxygen_generator_window__r_e_a_d_m_e" kind="page"><name>md_Assets_DoxygenGeneratorWindow_README</name>
+  </compound>
+  <compound refid="md__r_e_a_d_m_e" kind="page"><name>md_README</name>
+  </compound>
+  <compound refid="dir_84bbf7b3c7f28a5a18725745e1505219" kind="dir"><name>Assets</name>
+  </compound>
+  <compound refid="dir_f69428a92b557b964425b6cb190be8d1" kind="dir"><name>Assets/DoxygenGeneratorWindow</name>
+  </compound>
+</doxygenindex>

@@ -1,0 +1,1 @@
+{"PathToDOxygenOSX":"/Applications/Doxygen.app","PathToDOxygenWIN":"","FolderName":"","FolderOutput":"","ProjectName":"","ProjectSynopsis":"","ProjectVersion":""}
