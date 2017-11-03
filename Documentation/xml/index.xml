@@ -1,37 +1,129 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
-  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  <compound refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig" kind="class"><name>DoxygenGeneratorWindow::DGWConfig</name>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a472d53f7c4288664428e563eecc4ade2" kind="variable"><name>FolderName</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a41baab1251054ddbdcca9996e49c2ca9" kind="variable"><name>FolderOutput</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a7574a7d4639ff10e9e6b209094857098" kind="variable"><name>GenerateHTML</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1ae17963bf713651d1a847100f5772ff31" kind="variable"><name>GenerateLatex</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1ae77c5b908955768f409b28fbfdfabb86" kind="variable"><name>GenerateRTF</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a3bfb001a8099baeb6ec6345ebccd1a9d" kind="variable"><name>GenerateXML</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1ad7059e1c947d816aa5052372ef376581" kind="variable"><name>HTMLColor</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1ae65d4c94462c179c86aa8e40e6cc4b61" kind="variable"><name>PathToDOxygenOSX</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a8217e04094b6421ff37428624debf9eb" kind="variable"><name>PathToDOxygenWIN</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a3fe78671836fb8f22d63f63e0e7865ae" kind="variable"><name>ProjectName</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1aad02a5539e6fa6b8ca610ac10bc46eca" kind="variable"><name>ProjectSynopsis</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a15a911eb7e938cf68cff61be8f095c9b" kind="variable"><name>ProjectVersion</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a087d066fb97182b1ec164e5103493c9b" kind="variable"><name>Recursive</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a4afbe4efb2ce34d4e3ea871a703d12b8" kind="function"><name>FolderOutputAbsolute</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a31730f143952e39be16d00e588e3cc3f" kind="function"><name>SetFolderOutputAbsolute</name></member>
   </compound>
-  <compound refid="namespace_system_1_1_collections" kind="namespace"><name>System::Collections</name>
+  <compound refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants" kind="class"><name>DoxygenGeneratorWindow::DGWConstants</name>
+    <member refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants_1a3072bfa003c609fe44c1ad1105026305" kind="variable"><name>K_ALERT_IDEMOBI_DOC_HTTP</name></member>
+    <member refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants_1a0cdd96c402c9e3da14e1f9df4831e7a8" kind="variable"><name>K_ALERT_IDEMOBI_MENU</name></member>
+    <member refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants_1afd322acbc2f0e9bd6c6bc25377480279" kind="variable"><name>K_ALERT_IDEMOBI_MESSAGE</name></member>
+    <member refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants_1a1fea28f2f82d3f90d6895f6450e8d4eb" kind="variable"><name>K_ALERT_IDEMOBI_OK</name></member>
+    <member refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants_1a94f3cc15fa99355ec9479678fb90fb18" kind="variable"><name>K_ALERT_IDEMOBI_SEE_DOC</name></member>
+    <member refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants_1a393691e1046b9ba50f4a4662db7b6e9f" kind="variable"><name>K_ALERT_IDEMOBI_TITLE</name></member>
+    <member refid="d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants_1ab4be38c1ed1ee9343218f23760b0043e" kind="variable"><name>K_MENU_BASE</name></member>
   </compound>
-  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  <compound refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator" kind="class"><name>DoxygenGeneratorWindow::DGWDocumentationGenerator</name>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a3ac8443104c638c0b61a841fec5361b4" kind="variable"><name>Config</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a99af0f03d05b9e5ef713252876226e46" kind="variable"><name>ImageLogo</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a52d47c7d99e5e807edb0fd97e83b1939" kind="variable"><name>K_URL_DOXYGEN</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a081bcc409dad2dc380fa85c9e1c3235d" kind="variable"><name>WorkInProgress</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a0c5205fb7226436a3bd68a6ca750ee45" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab18fc7369e955cd707822f599cd2a726" kind="variable"><name>ScrollPosition</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ae13b9614dce4bcdd3fcc24354910a4a6" kind="function"><name>SharedInstance</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5bac79a047248fc6d5d4b536c2550ee2" kind="function"><name>PrepareWindow</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ad7d9716d5d31ecea6d54e73c05c1efe4" kind="function"><name>OnEnable</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a1bf4af51249f8e35e232f40b0b73da17" kind="function"><name>YesOrNo</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1af4de68005ecebdd50b0a3a95b771a2da" kind="function"><name>FinishDoxygen</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a8c1de1d8e5dfe78335d819c5adfcc5c2" kind="function"><name>LoadPreferences</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a452f9d1dabef6a4d443f80af717a60eb" kind="function"><name>OnGUI</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aa35c9b342138fb62fd6e5cb5f1b8082c" kind="function"><name>PathConfig</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a66f90d8aa6627d3c58fa37c413821cc7" kind="function"><name>PathDoxygenConfig</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5c3c6b8cf003b0da03afec0541c6ced5" kind="function"><name>RunDoxygen</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ac77ed02a599b36b8bf3779ef68908535" kind="function"><name>SavePreferences</name></member>
   </compound>
-  <compound refid="namespace_system_1_1_diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  <compound refid="d1/dad/classDoxygenGeneratorWindow_1_1DGWEditorMenu" kind="class"><name>DoxygenGeneratorWindow::DGWEditorMenu</name>
+    <member refid="d1/dad/classDoxygenGeneratorWindow_1_1DGWEditorMenu_1abc03c777b285ed315fc74db7340b3664" kind="function"><name>DGWEditorMenu</name></member>
+    <member refid="d1/dad/classDoxygenGeneratorWindow_1_1DGWEditorMenu_1adb4a37ccd52035383818f3db1b9e884d" kind="function"><name>IdemobiInfoShow</name></member>
   </compound>
-  <compound refid="namespace_system_1_1_i_o" kind="namespace"><name>System::IO</name>
+  <compound refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage" kind="class"><name>DoxygenGeneratorWindow::DGWFindPackage</name>
+    <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1aec97c04918bf99ba1a2cbc0f8cd4f4e3" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a0f4063fb020b7475f93d486db091c472" kind="variable"><name>ScriptFilePath</name></member>
+    <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a2e18e42277429a27bab9ae2b0f852b7b" kind="variable"><name>ScriptFolder</name></member>
+    <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a89e7ed4aa9d4cda9731cd6b1fd8ce5c8" kind="variable"><name>ScriptFolderFromAssets</name></member>
+    <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a419068e8651e24c994cf1d34b24dd4b0" kind="function"><name>PathOfPackage</name></member>
+    <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1ab232fc3aceaf32c98c4febb05da8b8b7" kind="function"><name>SharedInstance</name></member>
+    <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a5f43d04fc81cb9065084c01b5d2c3b01" kind="function"><name>ReadPaths</name></member>
   </compound>
-  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  <compound refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine" kind="class"><name>DoxygenGeneratorWindow::DGWMacroDefine</name>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1acde3a392788fb5e01946c5ca6c2dde3c" kind="variable"><name>kMacro</name></member>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a0cb135a82751baf9f7f44bfb9f70db77" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a365dacd9a6045034e8d550713003e2af" kind="property"><name>callbackOrder</name></member>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a6cb0c63ccea4107b1946288c5f69a96f" kind="function"><name>DGWMacroDefine</name></member>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a90757509429b8c1c3a47f368d16a0aa8" kind="function"><name>InstallMacro</name></member>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1aa57b1e003d8b9f783b6815e2e5969018" kind="function"><name>InstallMacroAll</name></member>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a462eaf2e8a4b1c90f3b7551d2b28fefb" kind="function"><name>OnActiveBuildTargetChanged</name></member>
+    <member refid="d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a9ba815b8a4ff2feefdc0e3a7edec07db" kind="function"><name>OnChangedPlatform</name></member>
   </compound>
-  <compound refid="namespace_system_1_1_text_1_1_regular_expressions" kind="namespace"><name>System::Text::RegularExpressions</name>
+  <compound refid="db/d58/namespaceDoxygenGeneratorWindow" kind="namespace"><name>DoxygenGeneratorWindow</name>
   </compound>
-  <compound refid="namespace_system_1_1_threading" kind="namespace"><name>System::Threading</name>
+  <compound refid="d6/d27/namespaceSystem" kind="namespace"><name>System</name>
   </compound>
-  <compound refid="namespace_unity_engine" kind="namespace"><name>UnityEngine</name>
+  <compound refid="dc/d07/namespaceSystem_1_1Collections" kind="namespace"><name>System::Collections</name>
   </compound>
-  <compound refid="_d_g_w_config_8cs" kind="file"><name>DGWConfig.cs</name>
+  <compound refid="d2/d06/namespaceSystem_1_1Collections_1_1Generic" kind="namespace"><name>System::Collections::Generic</name>
   </compound>
-  <compound refid="_d_g_w_documentation_generator_8cs" kind="file"><name>DGWDocumentationGenerator.cs</name>
+  <compound refid="df/d6d/namespaceSystem_1_1Diagnostics" kind="namespace"><name>System::Diagnostics</name>
   </compound>
-  <compound refid="_d_g_w_find_package_8cs" kind="file"><name>DGWFindPackage.cs</name>
+  <compound refid="d7/de5/namespaceSystem_1_1IO" kind="namespace"><name>System::IO</name>
   </compound>
-  <compound refid="_d_g_w_macro_define_8cs" kind="file"><name>DGWMacroDefine.cs</name>
+  <compound refid="de/d2a/namespaceSystem_1_1Text" kind="namespace"><name>System::Text</name>
   </compound>
-  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  <compound refid="dd/dab/namespaceSystem_1_1Text_1_1RegularExpressions" kind="namespace"><name>System::Text::RegularExpressions</name>
   </compound>
-  <compound refid="md__assets__doxygen_generator_window__r_e_a_d_m_e" kind="page"><name>md_Assets_DoxygenGeneratorWindow_README</name>
+  <compound refid="d2/dd3/namespaceSystem_1_1Threading" kind="namespace"><name>System::Threading</name>
+  </compound>
+  <compound refid="d3/dd4/namespaceUnityEditor" kind="namespace"><name>UnityEditor</name>
+  </compound>
+  <compound refid="d8/dbc/namespaceUnityEditor_1_1Build" kind="namespace"><name>UnityEditor::Build</name>
+  </compound>
+  <compound refid="d6/dc3/namespaceUnityEditor_1_1SceneManagement" kind="namespace"><name>UnityEditor::SceneManagement</name>
+  </compound>
+  <compound refid="de/d97/namespaceUnityEngine" kind="namespace"><name>UnityEngine</name>
+  </compound>
+  <compound refid="d1/da4/namespaceUnityMenuIdemobi" kind="namespace"><name>UnityMenuIdemobi</name>
+  </compound>
+  <compound refid="d7/d57/DGWFindPackage_8cs" kind="file"><name>DGWFindPackage.cs</name>
+  </compound>
+  <compound refid="d6/db1/DGWMacroDefine_8cs" kind="file"><name>DGWMacroDefine.cs</name>
+  </compound>
+  <compound refid="d4/d89/DGWConfig_8cs" kind="file"><name>DGWConfig.cs</name>
+  </compound>
+  <compound refid="d3/dab/DGWConstants_8cs" kind="file"><name>DGWConstants.cs</name>
+  </compound>
+  <compound refid="dd/d1e/DGWDocumentationGenerator_8cs" kind="file"><name>DGWDocumentationGenerator.cs</name>
+  </compound>
+  <compound refid="d6/d12/DGWEditorMenu_8cs" kind="file"><name>DGWEditorMenu.cs</name>
+  </compound>
+  <compound refid="da/ddd/README_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="dc/de7/md_Assets_DoxygenGeneratorWindow_README" kind="page"><name>md_Assets_DoxygenGeneratorWindow_README</name>
   </compound>
   <compound refid="dir_84bbf7b3c7f28a5a18725745e1505219" kind="dir"><name>Assets</name>
   </compound>
+  <compound refid="dir_8f23b177f12fdadb53586cbfe2bad975" kind="dir"><name>Assets/DoxygenGeneratorWindow/Editor/DGWConfig</name>
+  </compound>
+  <compound refid="dir_f3a61ea4be75c3d5c6c19946da16346a" kind="dir"><name>Assets/DoxygenGeneratorWindow/Editor/DGWConstants</name>
+  </compound>
+  <compound refid="dir_0934661d02ab6f87f97499723078b5de" kind="dir"><name>Assets/DoxygenGeneratorWindow/Editor/DGWDocumentationGenerator</name>
+  </compound>
+  <compound refid="dir_baa3532484d79ef83ba977172dffbfdd" kind="dir"><name>Assets/DoxygenGeneratorWindow/Editor/DGWEditorMenu</name>
+  </compound>
   <compound refid="dir_f69428a92b557b964425b6cb190be8d1" kind="dir"><name>Assets/DoxygenGeneratorWindow</name>
+  </compound>
+  <compound refid="dir_03ea3bd724b13ace177305425f21db4d" kind="dir"><name>Assets/DoxygenGeneratorWindow/Editor</name>
   </compound>
 </doxygenindex>

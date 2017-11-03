@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="da/ddd/README_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>Doxygen©<sp/>Generator<sp/>Window</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>Help<sp/>you<sp/>to<sp/>document<sp/>easily<sp/>your<sp/>projects</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">This<sp/>package<sp/>is<sp/>very<sp/>easily<sp/>to<sp/>use<sp/>:</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>in<sp/>Unity3d<sp/>Project<sp/>select<sp/>menu<sp/>&gt;ideMobi&gt;Doxygen©<sp/>Generator<sp/>Window</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>select<sp/>path<sp/>to<sp/>Doxygen©<sp/>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-<sp/>if<sp/>Doxygen<sp/>is<sp/>not<sp/>installed<sp/>,<sp/>follow<sp/>instructions<sp/>to<sp/>download<sp/>Doxygen<sp/>for<sp/>macOS©<sp/>or<sp/>Windows©<sp/>at<sp/>http://www.stack.nl/~dimitri/doxygen/index.html</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>enter<sp/>informations<sp/>for<sp/>your<sp/>project</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>drag<sp/>and<sp/>drop<sp/>the<sp/>folder<sp/>of<sp/>your<sp/>scripts<sp/>(scan<sp/>is<sp/>recursive,<sp/>no<sp/>panic)</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>select<sp/>the<sp/>folder<sp/>to<sp/>output<sp/>the<sp/>documentation</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>save<sp/>your<sp/>config<sp/>(to<sp/>restore<sp/>the<sp/>next<sp/>time<sp/>the<sp/>save<sp/>config)</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>**generate<sp/>the<sp/>documentation**!</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>be<sp/>happy!</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>Copyrights</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>Copyright<sp/>©<sp/>1997-2016<sp/>by<sp/>Dimitri<sp/>van<sp/>Heesch.<sp/>(http://www.stack.nl/~dimitri/doxygen/index.html)</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>Copyright<sp/>©<sp/>2017<sp/>Apple<sp/>Inc.<sp/>(http://www.aplle.com)</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>Copyright<sp/>©<sp/>2017<sp/>Microsoft<sp/>(http://www.microsoft.com)</highlight></codeline>
+    </programlisting>
+    <location file="Assets/DoxygenGeneratorWindow/README.md"/>
+  </compounddef>
+</doxygen>
