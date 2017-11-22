@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['loadpreferences',['LoadPreferences',['../d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a8c1de1d8e5dfe78335d819c5adfcc5c2',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]]
+  ['installmacro',['InstallMacro',['../d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine.html#a90757509429b8c1c3a47f368d16a0aa8',1,'DoxygenGeneratorWindow::DGWMacroDefine']]],
+  ['installmacroall',['InstallMacroAll',['../d4/d80/classDoxygenGeneratorWindow_1_1DGWMacroDefine.html#aa57b1e003d8b9f783b6815e2e5969018',1,'DoxygenGeneratorWindow::DGWMacroDefine']]]
 ];

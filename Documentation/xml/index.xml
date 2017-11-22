@@ -14,6 +14,8 @@
     <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1aad02a5539e6fa6b8ca610ac10bc46eca" kind="variable"><name>ProjectSynopsis</name></member>
     <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a15a911eb7e938cf68cff61be8f095c9b" kind="variable"><name>ProjectVersion</name></member>
     <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a087d066fb97182b1ec164e5103493c9b" kind="variable"><name>Recursive</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a111475dc4f19bf6be8e22f68ba7c483f" kind="function"><name>DGWConfig</name></member>
+    <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a25e1ad80533fbf1ddec9785e5f5662ae" kind="function"><name>EmptyFill</name></member>
     <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a4afbe4efb2ce34d4e3ea871a703d12b8" kind="function"><name>FolderOutputAbsolute</name></member>
     <member refid="df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig_1a31730f143952e39be16d00e588e3cc3f" kind="function"><name>SetFolderOutputAbsolute</name></member>
   </compound>
@@ -28,9 +30,9 @@
   </compound>
   <compound refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator" kind="class"><name>DoxygenGeneratorWindow::DGWDocumentationGenerator</name>
     <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a3ac8443104c638c0b61a841fec5361b4" kind="variable"><name>Config</name></member>
-    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a99af0f03d05b9e5ef713252876226e46" kind="variable"><name>ImageLogo</name></member>
     <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a52d47c7d99e5e807edb0fd97e83b1939" kind="variable"><name>K_URL_DOXYGEN</name></member>
     <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a081bcc409dad2dc380fa85c9e1c3235d" kind="variable"><name>WorkInProgress</name></member>
+    <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aac78f64d10530e9c66b36a80b0804e3c" kind="variable"><name>kGroupResetState</name></member>
     <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a0c5205fb7226436a3bd68a6ca750ee45" kind="variable"><name>kSharedInstance</name></member>
     <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab18fc7369e955cd707822f599cd2a726" kind="variable"><name>ScrollPosition</name></member>
     <member refid="d9/dac/classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ae13b9614dce4bcdd3fcc24354910a4a6" kind="function"><name>SharedInstance</name></member>
@@ -47,7 +49,6 @@
   </compound>
   <compound refid="d1/dad/classDoxygenGeneratorWindow_1_1DGWEditorMenu" kind="class"><name>DoxygenGeneratorWindow::DGWEditorMenu</name>
     <member refid="d1/dad/classDoxygenGeneratorWindow_1_1DGWEditorMenu_1abc03c777b285ed315fc74db7340b3664" kind="function"><name>DGWEditorMenu</name></member>
-    <member refid="d1/dad/classDoxygenGeneratorWindow_1_1DGWEditorMenu_1adb4a37ccd52035383818f3db1b9e884d" kind="function"><name>IdemobiInfoShow</name></member>
   </compound>
   <compound refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage" kind="class"><name>DoxygenGeneratorWindow::DGWFindPackage</name>
     <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1aec97c04918bf99ba1a2cbc0f8cd4f4e3" kind="variable"><name>kSharedInstance</name></member>

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['dgwconfig',['DGWConfig',['../df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig.html',1,'DoxygenGeneratorWindow']]],
+  ['dgwconfig',['DGWConfig',['../df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig.html',1,'DGWConfig'],['../df/dbf/classDoxygenGeneratorWindow_1_1DGWConfig.html#a111475dc4f19bf6be8e22f68ba7c483f',1,'DoxygenGeneratorWindow.DGWConfig.DGWConfig()']]],
   ['dgwconfig_2ecs',['DGWConfig.cs',['../d4/d89/DGWConfig_8cs.html',1,'']]],
   ['dgwconstants',['DGWConstants',['../d5/de6/classDoxygenGeneratorWindow_1_1DGWConstants.html',1,'DoxygenGeneratorWindow']]],
   ['dgwconstants_2ecs',['DGWConstants.cs',['../d3/dab/DGWConstants_8cs.html',1,'']]],

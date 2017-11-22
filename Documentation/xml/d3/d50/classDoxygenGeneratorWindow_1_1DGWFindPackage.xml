@@ -15,7 +15,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="46" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="46" bodyend="-1"/>
+        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="40" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="40" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-attrib">
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="60" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="60" bodyend="-1"/>
+        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="50" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="50" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a2e18e42277429a27bab9ae2b0f852b7b" prot="public" static="no" mutable="no">
         <type>string</type>
@@ -43,7 +43,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="64" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="64" bodyend="-1"/>
+        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="54" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="54" bodyend="-1"/>
       </memberdef>
       <memberdef kind="variable" id="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a89e7ed4aa9d4cda9731cd6b1fd8ce5c8" prot="public" static="no" mutable="no">
         <type>string</type>
@@ -56,7 +56,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="68" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="68" bodyend="-1"/>
+        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="58" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="58" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-static-func">
@@ -85,7 +85,7 @@
 </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="98" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="98" bodyend="102"/>
+        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="83" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="83" bodyend="86"/>
       </memberdef>
       <memberdef kind="function" id="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1ab232fc3aceaf32c98c4febb05da8b8b7" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>DGWFindPackage</type>
@@ -93,13 +93,13 @@
         <argsstring>() </argsstring>
         <name>SharedInstance</name>
         <briefdescription>
-<para>Ascencor to shared instance. </para>        </briefdescription>
+<para>Ascensor to shared instance. </para>        </briefdescription>
         <detaileddescription>
 <para><simplesect kind="return"><para>The shared instance.</para></simplesect>
 </para>        </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="83" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="83" bodyend="91"/>
+        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="69" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="69" bodyend="76"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -114,14 +114,14 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="116" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="116" bodyend="125"/>
+        <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="96" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="96" bodyend="104"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
 <para>Find package path class. Use the ScriptableObject to find the path of this package </para>    </briefdescription>
     <detaileddescription>
     </detaileddescription>
-    <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="26" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="25" bodyend="131"/>
+    <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="26" column="1" bodyfile="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" bodystart="25" bodyend="108"/>
     <listofallmembers>
       <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1aec97c04918bf99ba1a2cbc0f8cd4f4e3" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWFindPackage</scope><name>kSharedInstance</name></member>
       <member refid="d3/d50/classDoxygenGeneratorWindow_1_1DGWFindPackage_1a419068e8651e24c994cf1d34b24dd4b0" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWFindPackage</scope><name>PathOfPackage</name></member>
