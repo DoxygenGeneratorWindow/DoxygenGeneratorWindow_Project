@@ -1,10 +1,8 @@
 var searchData=
 [
-  ['scriptfilepath_293',['ScriptFilePath',['../classDoxygenGeneratorWindow_1_1DGWFindPackage.html#a0f4063fb020b7475f93d486db091c472',1,'DoxygenGeneratorWindow::DGWFindPackage']]],
-  ['scriptfolder_294',['ScriptFolder',['../classDoxygenGeneratorWindow_1_1DGWFindPackage.html#a2e18e42277429a27bab9ae2b0f852b7b',1,'DoxygenGeneratorWindow::DGWFindPackage']]],
-  ['scriptfolderfromassets_295',['ScriptFolderFromAssets',['../classDoxygenGeneratorWindow_1_1DGWFindPackage.html#a89e7ed4aa9d4cda9731cd6b1fd8ce5c8',1,'DoxygenGeneratorWindow::DGWFindPackage']]],
-  ['scrollposition_296',['ScrollPosition',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#ab18fc7369e955cd707822f599cd2a726',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
-  ['sections_297',['sections',['../classReadme.html#a35e9e39381f58ed4266d806f742c828a',1,'Readme']]],
-  ['selected_298',['Selected',['../classDoxygenGeneratorWindow_1_1DGWConfigList.html#aa63c48313853c05d2e5b345772063942',1,'DoxygenGeneratorWindow::DGWConfigList']]],
-  ['start_299',['start',['../classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData.html#a37722a150250e2a5a98e5e0d11e53449',1,'DoxygenGeneratorWindow::DGWToolbox::ThreadData']]]
+  ['ratiox_292',['ratioX',['../classDoxygenGeneratorWindow_1_1DGWToolbox.html#a591f838fcc482a9bc7934c46f92d3a90',1,'DoxygenGeneratorWindow::DGWToolbox']]],
+  ['ratioy_293',['ratioY',['../classDoxygenGeneratorWindow_1_1DGWToolbox.html#af6619759b5dc31cda2d8abfb2e9c7753',1,'DoxygenGeneratorWindow::DGWToolbox']]],
+  ['recursive_294',['Recursive',['../classDoxygenGeneratorWindow_1_1DGWConfig.html#a087d066fb97182b1ec164e5103493c9b',1,'DoxygenGeneratorWindow::DGWConfig']]],
+  ['roll_295',['roll',['../classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState.html#a26fd84d522945b6038221d9e38c7cc39',1,'UnityTemplateProjects::SimpleCameraController::CameraState']]],
+  ['rotationlerptime_296',['rotationLerpTime',['../classUnityTemplateProjects_1_1SimpleCameraController.html#a067cdbef8462972dd754a9c082ca7082',1,'UnityTemplateProjects::SimpleCameraController']]]
 ];

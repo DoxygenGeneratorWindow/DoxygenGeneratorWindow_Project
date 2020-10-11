@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.20" xml:lang="en-US">
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWFindPackage" kind="class"><name>DoxygenGeneratorWindow::DGWFindPackage</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1aec97c04918bf99ba1a2cbc0f8cd4f4e3" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a0f4063fb020b7475f93d486db091c472" kind="variable"><name>ScriptFilePath</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a2e18e42277429a27bab9ae2b0f852b7b" kind="variable"><name>ScriptFolder</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a89e7ed4aa9d4cda9731cd6b1fd8ce5c8" kind="variable"><name>ScriptFolderFromAssets</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a419068e8651e24c994cf1d34b24dd4b0" kind="function"><name>PathOfPackage</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1ab232fc3aceaf32c98c4febb05da8b8b7" kind="function"><name>SharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a5f43d04fc81cb9065084c01b5d2c3b01" kind="function"><name>ReadPaths</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine" kind="class"><name>DoxygenGeneratorWindow::DGWMacroDefine</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1acde3a392788fb5e01946c5ca6c2dde3c" kind="variable"><name>kMacro</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a0cb135a82751baf9f7f44bfb9f70db77" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a365dacd9a6045034e8d550713003e2af" kind="property"><name>callbackOrder</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a6cb0c63ccea4107b1946288c5f69a96f" kind="function"><name>DGWMacroDefine</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a90757509429b8c1c3a47f368d16a0aa8" kind="function"><name>InstallMacro</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1aa57b1e003d8b9f783b6815e2e5969018" kind="function"><name>InstallMacroAll</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a462eaf2e8a4b1c90f3b7551d2b28fefb" kind="function"><name>OnActiveBuildTargetChanged</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a9ba815b8a4ff2feefdc0e3a7edec07db" kind="function"><name>OnChangedPlatform</name></member>
+  </compound>
+  <compound refid="namespaceDoxygenGeneratorWindow" kind="namespace"><name>DoxygenGeneratorWindow</name>
+  </compound>
+  <compound refid="namespaceSystem" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Collections" kind="namespace"><name>System::Collections</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Collections_1_1Generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1IO" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespaceUnityEditor" kind="namespace"><name>UnityEditor</name>
+  </compound>
+  <compound refid="namespaceUnityEditor_1_1Build" kind="namespace"><name>UnityEditor::Build</name>
+  </compound>
+  <compound refid="namespaceUnityEngine" kind="namespace"><name>UnityEngine</name>
+  </compound>
+  <compound refid="DGWFindPackage_8cs" kind="file"><name>DGWFindPackage.cs</name>
+  </compound>
+  <compound refid="DGWMacroDefine_8cs" kind="file"><name>DGWMacroDefine.cs</name>
+  </compound>
+  <compound refid="README_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="md_Assets_DoxygenGeneratorWindow_README" kind="page"><name>md_Assets_DoxygenGeneratorWindow_README</name>
+  </compound>
+  <compound refid="dir_84bbf7b3c7f28a5a18725745e1505219" kind="dir"><name>Assets</name>
+  </compound>
+  <compound refid="dir_f69428a92b557b964425b6cb190be8d1" kind="dir"><name>Assets/DoxygenGeneratorWindow</name>
+  </compound>
+</doxygenindex>

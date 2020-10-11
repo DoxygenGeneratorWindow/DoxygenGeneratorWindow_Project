@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['outisok_281',['OutIsOk',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a96d9a7d0b0d7e64250be4d87b11d2248',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]]
+  ['newcolors_284',['newColors',['../classDoxygenGeneratorWindow_1_1DGWToolbox.html#a6c1dcce7b315a3778eba76e1ebfe9239',1,'DoxygenGeneratorWindow::DGWToolbox']]]
 ];

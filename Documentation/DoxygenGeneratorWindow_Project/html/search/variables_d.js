@@ -1,9 +1,4 @@
 var searchData=
 [
-  ['pitch_282',['pitch',['../classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState.html#a282e7d4378d4a18a805b8980295ac86c',1,'UnityTemplateProjects::SimpleCameraController::CameraState']]],
-  ['positionlerptime_283',['positionLerpTime',['../classUnityTemplateProjects_1_1SimpleCameraController.html#a1b894428d4693c97d5bf21f29d1da4f7',1,'UnityTemplateProjects::SimpleCameraController']]],
-  ['projectlogo_284',['ProjectLogo',['../classDoxygenGeneratorWindow_1_1DGWConfig.html#a98e220d2aa58ce620449040f90e971be',1,'DoxygenGeneratorWindow::DGWConfig']]],
-  ['projectname_285',['ProjectName',['../classDoxygenGeneratorWindow_1_1DGWConfig.html#a3fe78671836fb8f22d63f63e0e7865ae',1,'DoxygenGeneratorWindow::DGWConfig']]],
-  ['projectsynopsis_286',['ProjectSynopsis',['../classDoxygenGeneratorWindow_1_1DGWConfig.html#aad02a5539e6fa6b8ca610ac10bc46eca',1,'DoxygenGeneratorWindow::DGWConfig']]],
-  ['projectversion_287',['ProjectVersion',['../classDoxygenGeneratorWindow_1_1DGWConfig.html#a15a911eb7e938cf68cff61be8f095c9b',1,'DoxygenGeneratorWindow::DGWConfig']]]
+  ['outisok_285',['OutIsOk',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a96d9a7d0b0d7e64250be4d87b11d2248',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]]
 ];

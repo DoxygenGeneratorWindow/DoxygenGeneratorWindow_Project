@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="namespaceDoxygenGeneratorWindow" kind="namespace" language="C#">
+    <compoundname>DoxygenGeneratorWindow</compoundname>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWFindPackage" prot="public">DoxygenGeneratorWindow::DGWFindPackage</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine" prot="public">DoxygenGeneratorWindow::DGWMacroDefine</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="18" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['w_305',['w',['../classDoxygenGeneratorWindow_1_1DGWToolbox.html#aac374e320caaadeca4874add33b62af2',1,'DoxygenGeneratorWindow::DGWToolbox']]],
-  ['w2_306',['w2',['../classDoxygenGeneratorWindow_1_1DGWToolbox.html#a2ce538d76a0adc5272d9e55ba8fe89fc',1,'DoxygenGeneratorWindow::DGWToolbox']]],
-  ['workinprogress_307',['WorkInProgress',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a081bcc409dad2dc380fa85c9e1c3235d',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]]
+  ['url_307',['url',['../classReadme_1_1Section.html#aa03c1ef4c41f36b048cf58d5aade7653',1,'Readme::Section']]],
+  ['usetools_308',['UseTools',['../classDoxygenGeneratorWindow_1_1DGWConfig.html#ac5b6002c3cdbbb1cc5911b91f34b1865',1,'DoxygenGeneratorWindow::DGWConfig']]]
 ];

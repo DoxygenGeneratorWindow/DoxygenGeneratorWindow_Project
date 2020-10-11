@@ -21,5 +21,6 @@ var searchData=
   ['dgwtools_29',['DGWTools',['../namespaceDoxygenGeneratorWindow.html#a0f776a0aa7d33a4f3663cccf4fdd9ecd',1,'DoxygenGeneratorWindow']]],
   ['doxygen_30',['Doxygen',['../namespaceDoxygenGeneratorWindow.html#a0f776a0aa7d33a4f3663cccf4fdd9ecda7f20b283fe8e6e7416c8090e0660c2fe',1,'DoxygenGeneratorWindow']]],
   ['doxygengeneratorwindow_31',['DoxygenGeneratorWindow',['../namespaceDoxygenGeneratorWindow.html',1,'']]],
-  ['doxygen_20generator_20window_32',['Doxygen Generator Window',['../md_Assets_DoxygenGeneratorWindow_README.html',1,'']]]
+  ['dwgcontent_32',['DWGContent',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a6f494c8584042bd9b644f890d0c7d7d3',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
+  ['doxygen_20generator_20window_33',['Doxygen Generator Window',['../md_Assets_DoxygenGeneratorWindow_README.html',1,'']]]
 ];

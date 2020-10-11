@@ -1,20 +1,6 @@
 var searchData=
 [
-  ['k_5falert_5fidemobi_5fdoc_5fhttp_252',['K_ALERT_IDEMOBI_DOC_HTTP',['../classDoxygenGeneratorWindow_1_1DGWConstants.html#a3072bfa003c609fe44c1ad1105026305',1,'DoxygenGeneratorWindow::DGWConstants']]],
-  ['k_5falert_5fidemobi_5fmenu_253',['K_ALERT_IDEMOBI_MENU',['../classDoxygenGeneratorWindow_1_1DGWConstants.html#a0cdd96c402c9e3da14e1f9df4831e7a8',1,'DoxygenGeneratorWindow::DGWConstants']]],
-  ['k_5falert_5fidemobi_5fmessage_254',['K_ALERT_IDEMOBI_MESSAGE',['../classDoxygenGeneratorWindow_1_1DGWConstants.html#afd322acbc2f0e9bd6c6bc25377480279',1,'DoxygenGeneratorWindow::DGWConstants']]],
-  ['k_5falert_5fidemobi_5fok_255',['K_ALERT_IDEMOBI_OK',['../classDoxygenGeneratorWindow_1_1DGWConstants.html#a1fea28f2f82d3f90d6895f6450e8d4eb',1,'DoxygenGeneratorWindow::DGWConstants']]],
-  ['k_5falert_5fidemobi_5fsee_5fdoc_256',['K_ALERT_IDEMOBI_SEE_DOC',['../classDoxygenGeneratorWindow_1_1DGWConstants.html#a94f3cc15fa99355ec9479678fb90fb18',1,'DoxygenGeneratorWindow::DGWConstants']]],
-  ['k_5falert_5fidemobi_5ftitle_257',['K_ALERT_IDEMOBI_TITLE',['../classDoxygenGeneratorWindow_1_1DGWConstants.html#a393691e1046b9ba50f4a4662db7b6e9f',1,'DoxygenGeneratorWindow::DGWConstants']]],
-  ['k_5fmenu_5fbase_258',['K_MENU_BASE',['../classDoxygenGeneratorWindow_1_1DGWConstants.html#ab4be38c1ed1ee9343218f23760b0043e',1,'DoxygenGeneratorWindow::DGWConstants']]],
-  ['k_5fpathbuttonwidth_259',['k_PathButtonWidth',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#aa123de76ad0a6b7d1d8700647adac949',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
-  ['k_5fpathtodoxygenosx_5fkey_260',['K_PathToDOxygenOSX_key',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#ab59155c71180c2c659a2a92ebdef3cb8',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
-  ['k_5fpathtodoxygenwin_5fkey_261',['K_PathToDOxygenWIN_key',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a27d6bdeb7202e18d9f3b26f3e9bd22ee',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
-  ['k_5ftextl_5fdoxygen_262',['K_TEXTL_DOXYGEN',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a334085797211b01dff85f066bfbe9128',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
-  ['k_5furl_5fdoxygen_263',['K_URL_DOXYGEN',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a52d47c7d99e5e807edb0fd97e83b1939',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
-  ['kgroupresetstate_264',['kGroupResetState',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#aac78f64d10530e9c66b36a80b0804e3c',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
-  ['kmacro_265',['kMacro',['../classDoxygenGeneratorWindow_1_1DGWMacroDefine.html#acde3a392788fb5e01946c5ca6c2dde3c',1,'DoxygenGeneratorWindow::DGWMacroDefine']]],
-  ['ksharedinstance_266',['kSharedInstance',['../classDoxygenGeneratorWindow_1_1DGWFindPackage.html#aec97c04918bf99ba1a2cbc0f8cd4f4e3',1,'DoxygenGeneratorWindow.DGWFindPackage.kSharedInstance()'],['../classDoxygenGeneratorWindow_1_1DGWMacroDefine.html#a0cb135a82751baf9f7f44bfb9f70db77',1,'DoxygenGeneratorWindow.DGWMacroDefine.kSharedInstance()'],['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#a0c5205fb7226436a3bd68a6ca750ee45',1,'DoxygenGeneratorWindow.DGWDocumentationGenerator.kSharedInstance()']]],
-  ['kshowedreadmesessionstatename_267',['kShowedReadmeSessionStateName',['../classReadmeEditor.html#a6a4462117798471e83adcebc45f6482b',1,'ReadmeEditor']]],
-  ['kspace_268',['kSpace',['../classReadmeEditor.html#ad3c6304cfd68ebe3486f85815f7b4747',1,'ReadmeEditor']]]
+  ['icon_253',['icon',['../classReadme.html#abff1c3345bb95f3a5109abafe90cca67',1,'Readme']]],
+  ['idemobicontent_254',['IdemobiContent',['../classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html#ab09a4791c8e0bae5e298f6502fe3d0bb',1,'DoxygenGeneratorWindow::DGWDocumentationGenerator']]],
+  ['inverty_255',['invertY',['../classUnityTemplateProjects_1_1SimpleCameraController.html#a40424b6ac7a90f29a9d4ba2c8e019cb5',1,'UnityTemplateProjects::SimpleCameraController']]]
 ];

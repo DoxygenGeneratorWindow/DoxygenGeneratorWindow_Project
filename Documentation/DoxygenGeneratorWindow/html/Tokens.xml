@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+  <Token>
+    <TokenIdentifier>
+      <Name>md_Assets_DoxygenGeneratorWindow_README</Name>
+      <APILanguage>markdown</APILanguage>
+    </TokenIdentifier>
+    <Path>md_Assets_DoxygenGeneratorWindow_README.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>DoxygenGeneratorWindow</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>ns</Type>
+      <Scope>DoxygenGeneratorWindow</Scope>
+    </TokenIdentifier>
+    <Path>namespaceDoxygenGeneratorWindow.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>DoxygenGeneratorWindow::DGWFindPackage</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>cl</Type>
+      <Scope>DoxygenGeneratorWindow.DGWFindPackage</Scope>
+    </TokenIdentifier>
+    <Path>classDoxygenGeneratorWindow_1_1DGWFindPackage.html</Path>
+    <Abstract>Find package path class. Use the ScriptableObject to find the path of this package</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>DoxygenGeneratorWindow::DGWMacroDefine</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>cl</Type>
+      <Scope>DoxygenGeneratorWindow.DGWMacroDefine</Scope>
+    </TokenIdentifier>
+    <Path>classDoxygenGeneratorWindow_1_1DGWMacroDefine.html</Path>
+    <Abstract>Macro define can find if kMacro is set in the settings and add it if necessary. This class auto run a...</Abstract>
+  </Token>
+</Tokens>

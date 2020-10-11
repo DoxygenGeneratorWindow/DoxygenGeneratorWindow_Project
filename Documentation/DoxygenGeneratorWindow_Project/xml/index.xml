@@ -47,6 +47,8 @@
     <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a0c5205fb7226436a3bd68a6ca750ee45" kind="variable"><name>kSharedInstance</name></member>
     <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a3ac8443104c638c0b61a841fec5361b4" kind="variable"><name>Config</name></member>
     <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a7787bfc184572864862cba5d846cf600" kind="variable"><name>ConfigList</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a6f494c8584042bd9b644f890d0c7d7d3" kind="variable"><name>DWGContent</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab09a4791c8e0bae5e298f6502fe3d0bb" kind="variable"><name>IdemobiContent</name></member>
     <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a96d9a7d0b0d7e64250be4d87b11d2248" kind="variable"><name>OutIsOk</name></member>
     <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab18fc7369e955cd707822f599cd2a726" kind="variable"><name>ScrollPosition</name></member>
     <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a081bcc409dad2dc380fa85c9e1c3235d" kind="variable"><name>WorkInProgress</name></member>

@@ -308,6 +308,16 @@
                 <Anchor>a7787bfc184572864862cba5d846cf600</Anchor>
                </Node>
                <Node>
+                <Name>DWGContent</Name>
+                <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
+                <Anchor>a6f494c8584042bd9b644f890d0c7d7d3</Anchor>
+               </Node>
+               <Node>
+                <Name>IdemobiContent</Name>
+                <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
+                <Anchor>ab09a4791c8e0bae5e298f6502fe3d0bb</Anchor>
+               </Node>
+               <Node>
                 <Name>k_PathButtonWidth</Name>
                 <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
                 <Anchor>aa123de76ad0a6b7d1d8700647adac949</Anchor>
@@ -1248,6 +1258,16 @@
                         <Anchor>a7787bfc184572864862cba5d846cf600</Anchor>
                        </Node>
                        <Node>
+                        <Name>DWGContent</Name>
+                        <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
+                        <Anchor>a6f494c8584042bd9b644f890d0c7d7d3</Anchor>
+                       </Node>
+                       <Node>
+                        <Name>IdemobiContent</Name>
+                        <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
+                        <Anchor>ab09a4791c8e0bae5e298f6502fe3d0bb</Anchor>
+                       </Node>
+                       <Node>
                         <Name>k_PathButtonWidth</Name>
                         <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
                         <Anchor>aa123de76ad0a6b7d1d8700647adac949</Anchor>
@@ -1395,6 +1415,16 @@
                         <Name>ConfigList</Name>
                         <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
                         <Anchor>a7787bfc184572864862cba5d846cf600</Anchor>
+                       </Node>
+                       <Node>
+                        <Name>DWGContent</Name>
+                        <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
+                        <Anchor>a6f494c8584042bd9b644f890d0c7d7d3</Anchor>
+                       </Node>
+                       <Node>
+                        <Name>IdemobiContent</Name>
+                        <Path>classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator.html</Path>
+                        <Anchor>ab09a4791c8e0bae5e298f6502fe3d0bb</Anchor>
                        </Node>
                        <Node>
                         <Name>k_PathButtonWidth</Name>

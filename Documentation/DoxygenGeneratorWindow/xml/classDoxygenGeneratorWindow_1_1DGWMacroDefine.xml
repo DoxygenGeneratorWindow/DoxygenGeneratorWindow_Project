@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classDoxygenGeneratorWindow_1_1DGWMacroDefine" kind="class" language="C#" prot="public">
+    <compoundname>DoxygenGeneratorWindow::DGWMacroDefine</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IActiveBuildTargetChanged</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1acde3a392788fb5e01946c5ca6c2dde3c" prot="private" static="yes" mutable="no">
+        <type>const string</type>
+        <definition>const string kMacro</definition>
+        <argsstring></argsstring>
+        <name>kMacro</name>
+        <initializer>= &quot;DOXYGEN_GENERATOR_WINDOW&quot;</initializer>
+        <briefdescription>
+<para>The macro to check in this project. It&apos;s tag in settings. The you can use #if define xxxxx #endif in your code. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="27" column="14" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a0cb135a82751baf9f7f44bfb9f70db77" prot="private" static="yes" mutable="no">
+        <type><ref refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a6cb0c63ccea4107b1946288c5f69a96f" kindref="member">DGWMacroDefine</ref></type>
+        <definition>DGWMacroDefine kSharedInstance</definition>
+        <argsstring></argsstring>
+        <name>kSharedInstance</name>
+        <briefdescription>
+<para>The shared instance used for this class. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="32" column="23" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a365dacd9a6045034e8d550713003e2af" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int callbackOrder</definition>
+        <argsstring></argsstring>
+        <name>callbackOrder</name>
+        <briefdescription>
+<para>Gets the callback order for IActiveBuildTargetChanged </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The callback order.</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="50" column="12" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="50" bodyend="50"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a6cb0c63ccea4107b1946288c5f69a96f" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>static</type>
+        <definition>static DGWMacroDefine</definition>
+        <argsstring>() </argsstring>
+        <name>DGWMacroDefine</name>
+        <briefdescription>
+<para>Initializes the <ref refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine" kindref="compound">DGWMacroDefine</ref> class. Instance kSharedInstance to use it when method OnActiveBuildTargetChanged must be invoked </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="38" column="8" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="38" bodyend="44"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a90757509429b8c1c3a47f368d16a0aa8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void InstallMacro</definition>
+        <argsstring>(BuildTargetGroup sBuildTarget) </argsstring>
+        <name>InstallMacro</name>
+        <param>
+          <type>BuildTargetGroup</type>
+          <declname>sBuildTarget</declname>
+        </param>
+        <briefdescription>
+<para>Installs the macro. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sBuildTarget</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>S build target.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="74" column="13" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="74" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1aa57b1e003d8b9f783b6815e2e5969018" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void InstallMacroAll</definition>
+        <argsstring>() </argsstring>
+        <name>InstallMacroAll</name>
+        <briefdescription>
+<para>Installs the macro in all build target. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="88" column="13" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="88" bodyend="96"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a462eaf2e8a4b1c90f3b7551d2b28fefb" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OnActiveBuildTargetChanged</definition>
+        <argsstring>(BuildTarget previousTarget, BuildTarget newTarget) </argsstring>
+        <name>OnActiveBuildTargetChanged</name>
+        <param>
+          <type>BuildTarget</type>
+          <declname>previousTarget</declname>
+        </param>
+        <param>
+          <type>BuildTarget</type>
+          <declname>newTarget</declname>
+        </param>
+        <briefdescription>
+<para>Raises the active build target changed event. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>previousTarget</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Previous target.</para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>newTarget</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>New target.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="57" column="13" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="57" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a9ba815b8a4ff2feefdc0e3a7edec07db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OnChangedPlatform</definition>
+        <argsstring>() </argsstring>
+        <name>OnChangedPlatform</name>
+        <briefdescription>
+<para>Raises the changed platform event. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="65" column="13" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="65" bodyend="68"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Macro define can find if kMacro is set in the settings and add it if necessary. This class auto run at build project. You can use kMacro in precompile definition. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" line="20" column="7" bodyfile="Assets/DoxygenGeneratorWindow/DGWMacroDefine.cs" bodystart="21" bodyend="98"/>
+    <listofallmembers>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a365dacd9a6045034e8d550713003e2af" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>callbackOrder</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a6cb0c63ccea4107b1946288c5f69a96f" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>DGWMacroDefine</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a90757509429b8c1c3a47f368d16a0aa8" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>InstallMacro</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1aa57b1e003d8b9f783b6815e2e5969018" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>InstallMacroAll</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1acde3a392788fb5e01946c5ca6c2dde3c" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>kMacro</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a0cb135a82751baf9f7f44bfb9f70db77" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>kSharedInstance</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a462eaf2e8a4b1c90f3b7551d2b28fefb" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>OnActiveBuildTargetChanged</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a9ba815b8a4ff2feefdc0e3a7edec07db" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWMacroDefine</scope><name>OnChangedPlatform</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

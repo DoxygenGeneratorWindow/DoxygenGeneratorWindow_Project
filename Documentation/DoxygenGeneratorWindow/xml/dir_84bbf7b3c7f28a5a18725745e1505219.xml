@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="dir_84bbf7b3c7f28a5a18725745e1505219" kind="dir">
+    <compoundname>Assets</compoundname>
+    <innerdir refid="dir_f69428a92b557b964425b6cb190be8d1">Assets/DoxygenGeneratorWindow</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/"/>
+  </compounddef>
+</doxygen>
