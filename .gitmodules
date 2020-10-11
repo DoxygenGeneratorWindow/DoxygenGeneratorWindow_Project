@@ -1,0 +1,3 @@
+[submodule "Assets/DoxygenGeneratorWindow"]
+	path = Assets/DoxygenGeneratorWindow
+	url = git@github.com:DoxygenGeneratorWindow/DoxygenGeneratorWindow.git
