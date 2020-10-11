@@ -10,11 +10,11 @@
 ![VCS](https://img.shields.io/badge/git-github-blue.svg?logo=git)
 
 
-## An extension to integrate Doxygen© in Unity© Projects.
+## An extension to integrate Doxygen© in Unity© projects.
 
 Doxygen© Generator Window add possibility to generate Header documentation folder form directories in Unity©. It's supporting multi-directories parameters.
 
 
 ## Just an test of Doxygen Generator Window
 
-see https://github.com/DoxygenGeneratorWindow/DoxygenGeneratorWindow to implement in your unty3D© project.
+see https://github.com/DoxygenGeneratorWindow/DoxygenGeneratorWindow to implement in your Unity© projects.
