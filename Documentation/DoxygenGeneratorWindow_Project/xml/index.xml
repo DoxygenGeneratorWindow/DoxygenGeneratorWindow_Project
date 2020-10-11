@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.20" xml:lang="en-US">
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWConfig" kind="class"><name>DoxygenGeneratorWindow::DGWConfig</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a5c3dcfc1c2400906e7f18ed049543dde" kind="variable"><name>ALPHABETICAL_INDEX</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a472d53f7c4288664428e563eecc4ade2" kind="variable"><name>FolderName</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a41baab1251054ddbdcca9996e49c2ca9" kind="variable"><name>FolderOutput</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ac4c8e61a0381850552df0a7a5d8588bf" kind="variable"><name>GenerateDocSet</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a7574a7d4639ff10e9e6b209094857098" kind="variable"><name>GenerateHTML</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ae17963bf713651d1a847100f5772ff31" kind="variable"><name>GenerateLatex</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ae77c5b908955768f409b28fbfdfabb86" kind="variable"><name>GenerateRTF</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a3bfb001a8099baeb6ec6345ebccd1a9d" kind="variable"><name>GenerateXML</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ad7059e1c947d816aa5052372ef376581" kind="variable"><name>HTMLColor</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a98e220d2aa58ce620449040f90e971be" kind="variable"><name>ProjectLogo</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a3fe78671836fb8f22d63f63e0e7865ae" kind="variable"><name>ProjectName</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1aad02a5539e6fa6b8ca610ac10bc46eca" kind="variable"><name>ProjectSynopsis</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a15a911eb7e938cf68cff61be8f095c9b" kind="variable"><name>ProjectVersion</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a087d066fb97182b1ec164e5103493c9b" kind="variable"><name>Recursive</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ac5b6002c3cdbbb1cc5911b91f34b1865" kind="variable"><name>UseTools</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a111475dc4f19bf6be8e22f68ba7c483f" kind="function"><name>DGWConfig</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a25e1ad80533fbf1ddec9785e5f5662ae" kind="function"><name>EmptyFill</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a4afbe4efb2ce34d4e3ea871a703d12b8" kind="function"><name>FolderOutputAbsolute</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a31730f143952e39be16d00e588e3cc3f" kind="function"><name>SetFolderOutputAbsolute</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWConfigList" kind="class"><name>DoxygenGeneratorWindow::DGWConfigList</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1aa68075c642a7490abe441c811efe9c38" kind="variable"><name>ConfigList</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1aa63c48313853c05d2e5b345772063942" kind="variable"><name>Selected</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1a3497c5c32c519e6bee8646ccfc5896f6" kind="function"><name>DGWConfigList</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1a64a5a83fae5a3fad0b05c02a9127416a" kind="function"><name>AddNewConfig</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1a5160a332fcb9c8f9eee936eebbd4f0da" kind="function"><name>RemoveConfig</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWConstants" kind="class"><name>DoxygenGeneratorWindow::DGWConstants</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConstants_1a3072bfa003c609fe44c1ad1105026305" kind="variable"><name>K_ALERT_IDEMOBI_DOC_HTTP</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConstants_1a0cdd96c402c9e3da14e1f9df4831e7a8" kind="variable"><name>K_ALERT_IDEMOBI_MENU</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConstants_1afd322acbc2f0e9bd6c6bc25377480279" kind="variable"><name>K_ALERT_IDEMOBI_MESSAGE</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConstants_1a1fea28f2f82d3f90d6895f6450e8d4eb" kind="variable"><name>K_ALERT_IDEMOBI_OK</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConstants_1a94f3cc15fa99355ec9479678fb90fb18" kind="variable"><name>K_ALERT_IDEMOBI_SEE_DOC</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConstants_1a393691e1046b9ba50f4a4662db7b6e9f" kind="variable"><name>K_ALERT_IDEMOBI_TITLE</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWConstants_1ab4be38c1ed1ee9343218f23760b0043e" kind="variable"><name>K_MENU_BASE</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator" kind="class"><name>DoxygenGeneratorWindow::DGWDocumentationGenerator</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aa123de76ad0a6b7d1d8700647adac949" kind="variable"><name>k_PathButtonWidth</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab59155c71180c2c659a2a92ebdef3cb8" kind="variable"><name>K_PathToDOxygenOSX_key</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a27d6bdeb7202e18d9f3b26f3e9bd22ee" kind="variable"><name>K_PathToDOxygenWIN_key</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a334085797211b01dff85f066bfbe9128" kind="variable"><name>K_TEXTL_DOXYGEN</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a52d47c7d99e5e807edb0fd97e83b1939" kind="variable"><name>K_URL_DOXYGEN</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aac78f64d10530e9c66b36a80b0804e3c" kind="variable"><name>kGroupResetState</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a0c5205fb7226436a3bd68a6ca750ee45" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a3ac8443104c638c0b61a841fec5361b4" kind="variable"><name>Config</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a7787bfc184572864862cba5d846cf600" kind="variable"><name>ConfigList</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a96d9a7d0b0d7e64250be4d87b11d2248" kind="variable"><name>OutIsOk</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab18fc7369e955cd707822f599cd2a726" kind="variable"><name>ScrollPosition</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a081bcc409dad2dc380fa85c9e1c3235d" kind="variable"><name>WorkInProgress</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1abaa8f77e3be119ecd8144446b9ed292b" kind="function"><name>DeCompress</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ae13b9614dce4bcdd3fcc24354910a4a6" kind="function"><name>SharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5bac79a047248fc6d5d4b536c2550ee2" kind="function"><name>PrepareWindow</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ad7d9716d5d31ecea6d54e73c05c1efe4" kind="function"><name>OnEnable</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a1bf4af51249f8e35e232f40b0b73da17" kind="function"><name>YesOrNo</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1af4de68005ecebdd50b0a3a95b771a2da" kind="function"><name>FinishDoxygen</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a8c1de1d8e5dfe78335d819c5adfcc5c2" kind="function"><name>LoadPreferences</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a452f9d1dabef6a4d443f80af717a60eb" kind="function"><name>OnGUI</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1abf1e3c608e59f92dd823eb8d925b4a60" kind="function"><name>OnGUI_Doxygen</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aa35c9b342138fb62fd6e5cb5f1b8082c" kind="function"><name>PathConfig</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a66f90d8aa6627d3c58fa37c413821cc7" kind="function"><name>PathDoxygenConfig</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5c3c6b8cf003b0da03afec0541c6ced5" kind="function"><name>RunDoxygen</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ac77ed02a599b36b8bf3779ef68908535" kind="function"><name>SavePreferences</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWEditorMenu" kind="class"><name>DoxygenGeneratorWindow::DGWEditorMenu</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWEditorMenu_1abc03c777b285ed315fc74db7340b3664" kind="function"><name>DGWEditorMenu</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWFindPackage" kind="class"><name>DoxygenGeneratorWindow::DGWFindPackage</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1aec97c04918bf99ba1a2cbc0f8cd4f4e3" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a0f4063fb020b7475f93d486db091c472" kind="variable"><name>ScriptFilePath</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a2e18e42277429a27bab9ae2b0f852b7b" kind="variable"><name>ScriptFolder</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a89e7ed4aa9d4cda9731cd6b1fd8ce5c8" kind="variable"><name>ScriptFolderFromAssets</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a419068e8651e24c994cf1d34b24dd4b0" kind="function"><name>PathOfPackage</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1ab232fc3aceaf32c98c4febb05da8b8b7" kind="function"><name>SharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWFindPackage_1a5f43d04fc81cb9065084c01b5d2c3b01" kind="function"><name>ReadPaths</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine" kind="class"><name>DoxygenGeneratorWindow::DGWMacroDefine</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1acde3a392788fb5e01946c5ca6c2dde3c" kind="variable"><name>kMacro</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a0cb135a82751baf9f7f44bfb9f70db77" kind="variable"><name>kSharedInstance</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a365dacd9a6045034e8d550713003e2af" kind="property"><name>callbackOrder</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a6cb0c63ccea4107b1946288c5f69a96f" kind="function"><name>DGWMacroDefine</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a90757509429b8c1c3a47f368d16a0aa8" kind="function"><name>InstallMacro</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1aa57b1e003d8b9f783b6815e2e5969018" kind="function"><name>InstallMacroAll</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a462eaf2e8a4b1c90f3b7551d2b28fefb" kind="function"><name>OnActiveBuildTargetChanged</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine_1a9ba815b8a4ff2feefdc0e3a7edec07db" kind="function"><name>OnChangedPlatform</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWToolbox" kind="class"><name>DoxygenGeneratorWindow::DGWToolbox</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1af937ddb4643b9399af356355d36131d5" kind="variable"><name>finishCount</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1ae8b85b4f519a4945ba9ea43e9b503531" kind="variable"><name>mutex</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a6c1dcce7b315a3778eba76e1ebfe9239" kind="variable"><name>newColors</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a591f838fcc482a9bc7934c46f92d3a90" kind="variable"><name>ratioX</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1af6619759b5dc31cda2d8abfb2e9c7753" kind="variable"><name>ratioY</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1acae1a0542ef91329017a2e6398cf987c" kind="variable"><name>texColors</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1aac374e320caaadeca4874add33b62af2" kind="variable"><name>w</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a2ce538d76a0adc5272d9e55ba8fe89fc" kind="variable"><name>w2</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1ab56f5772a55e42f17bcf2114374d3aed" kind="function"><name>Bilinear</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1aa9f282abad8dee7f60daa8216f0cc6eb" kind="function"><name>BilinearScale</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a1b4cb5d375b266e3d81dfc4719358624" kind="function"><name>Point</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a175bb6d141e11fc95f44215b6f6eb34e" kind="function"><name>PointScale</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a63baf15abfa16cae4c527157e97b298e" kind="function"><name>ThreadedScale</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1aa4d2671a992d6600d064b14c03469de9" kind="function"><name>ColorLerpUnclamped</name></member>
+  </compound>
+  <compound refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData" kind="class"><name>DoxygenGeneratorWindow::DGWToolbox::ThreadData</name>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1abce9f5dc9c83f2639b72024fdee5d388" kind="variable"><name>end</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1a37722a150250e2a5a98e5e0d11e53449" kind="variable"><name>start</name></member>
+    <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1a4d8353de16f684c03f5c841521d218f1" kind="function"><name>ThreadData</name></member>
+  </compound>
+  <compound refid="classReadme" kind="class"><name>Readme</name>
+    <member refid="classReadme_1abff1c3345bb95f3a5109abafe90cca67" kind="variable"><name>icon</name></member>
+    <member refid="classReadme_1aaa72f213c2aabd487c22a88f5571d961" kind="variable"><name>loadedLayout</name></member>
+    <member refid="classReadme_1a35e9e39381f58ed4266d806f742c828a" kind="variable"><name>sections</name></member>
+    <member refid="classReadme_1a43a5eafe64b96968035e5a4013e47c75" kind="variable"><name>title</name></member>
+  </compound>
+  <compound refid="classReadme_1_1Section" kind="class"><name>Readme::Section</name>
+    <member refid="classReadme_1_1Section_1a090acb0f487772ef52f166987fabfd66" kind="variable"><name>heading</name></member>
+    <member refid="classReadme_1_1Section_1a989b6272228bfbaa192468dd98cbfe98" kind="variable"><name>linkText</name></member>
+    <member refid="classReadme_1_1Section_1a739bd7e413e61c963681e085a990979a" kind="variable"><name>text</name></member>
+    <member refid="classReadme_1_1Section_1aa03c1ef4c41f36b048cf58d5aade7653" kind="variable"><name>url</name></member>
+  </compound>
+  <compound refid="classReadmeEditor" kind="class"><name>ReadmeEditor</name>
+    <member refid="classReadmeEditor_1a6a4462117798471e83adcebc45f6482b" kind="variable"><name>kShowedReadmeSessionStateName</name></member>
+    <member refid="classReadmeEditor_1ad3c6304cfd68ebe3486f85815f7b4747" kind="variable"><name>kSpace</name></member>
+    <member refid="classReadmeEditor_1a8f728a417302fa35b8c3f6fc5074069e" kind="variable"><name>m_BodyStyle</name></member>
+    <member refid="classReadmeEditor_1ae46f421b561b41a643927a296509a9cd" kind="variable"><name>m_HeadingStyle</name></member>
+    <member refid="classReadmeEditor_1a67543f3b20462b853f968127db0c566e" kind="variable"><name>m_Initialized</name></member>
+    <member refid="classReadmeEditor_1a52c6172ba0583b2142079a9f8bf0ac11" kind="variable"><name>m_LinkStyle</name></member>
+    <member refid="classReadmeEditor_1abbcdb14a2b009d45ac8706993c78692d" kind="variable"><name>m_TitleStyle</name></member>
+    <member refid="classReadmeEditor_1a267af7025e3eae0e50517580dbd9ea9c" kind="property"><name>BodyStyle</name></member>
+    <member refid="classReadmeEditor_1abae172ce3ec410ff95bcde6e8d2d3e34" kind="property"><name>HeadingStyle</name></member>
+    <member refid="classReadmeEditor_1a29ed4f4e928e99f9e79f9c033a6a3069" kind="property"><name>LinkStyle</name></member>
+    <member refid="classReadmeEditor_1ab55e0d87f2bc06b1b577317aa65293af" kind="property"><name>TitleStyle</name></member>
+    <member refid="classReadmeEditor_1a5475c15b06ed0e8559985e7ca662b9f1" kind="function"><name>ReadmeEditor</name></member>
+    <member refid="classReadmeEditor_1ad89fb8cf467c904574a49c59d3c57739" kind="function"><name>LoadLayout</name></member>
+    <member refid="classReadmeEditor_1ad61ff0a8c60f44caa0f36c90df767324" kind="function"><name>SelectReadme</name></member>
+    <member refid="classReadmeEditor_1afa134c2a951f764a90711dd6d740399e" kind="function"><name>SelectReadmeAutomatically</name></member>
+    <member refid="classReadmeEditor_1a5a62c009860d8b118be34375428de40e" kind="function"><name>OnHeaderGUI</name></member>
+    <member refid="classReadmeEditor_1a9a45639d2613f81f6ed0f30a494197b2" kind="function"><name>OnInspectorGUI</name></member>
+    <member refid="classReadmeEditor_1a09ec0d0ed214a455e7f00415ce0b7759" kind="function"><name>Init</name></member>
+    <member refid="classReadmeEditor_1aaeb047752749d3afa69045279176479d" kind="function"><name>LinkLabel</name></member>
+  </compound>
+  <compound refid="classUnityTemplateProjects_1_1SimpleCameraController" kind="class"><name>UnityTemplateProjects::SimpleCameraController</name>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1a9d0c5fc6cee2a7505156523a7b362757" kind="variable"><name>m_InterpolatingCameraState</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1ae4be2f74a426cd50a81af2378453beb1" kind="variable"><name>m_TargetCameraState</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1a54833908835fb9a3f3616a41b90be143" kind="variable"><name>boost</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1a40424b6ac7a90f29a9d4ba2c8e019cb5" kind="variable"><name>invertY</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1ad94ad8555eb7afb3c22bfba54e4791bb" kind="variable"><name>mouseSensitivityCurve</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1a1b894428d4693c97d5bf21f29d1da4f7" kind="variable"><name>positionLerpTime</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1a067cdbef8462972dd754a9c082ca7082" kind="variable"><name>rotationLerpTime</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1a72f48784cf36261c326b2e036db0b6d2" kind="function"><name>GetInputTranslationDirection</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1ad7d9716d5d31ecea6d54e73c05c1efe4" kind="function"><name>OnEnable</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1a62dd9d67772e873439be769bd3a4bde0" kind="function"><name>Update</name></member>
+  </compound>
+  <compound refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState" kind="class"><name>UnityTemplateProjects::SimpleCameraController::CameraState</name>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a282e7d4378d4a18a805b8980295ac86c" kind="variable"><name>pitch</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a26fd84d522945b6038221d9e38c7cc39" kind="variable"><name>roll</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1ad0da36b2558901e21e7a30f6c227a45e" kind="variable"><name>x</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1aa4f0d3eebc3c443f9be81bf48561a217" kind="variable"><name>y</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a7efc219781df4a1e281cb5d348b7fbf9" kind="variable"><name>yaw</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1af73583b1e980b0aa03f9884812e9fd4d" kind="variable"><name>z</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1ae3c4979c8dafbc359fac5ffc6cdc39fc" kind="function"><name>LerpTowards</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a89dafff7f5dc274e316f1699165ff3f3" kind="function"><name>SetFromTransform</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a7ddd1d0bdc0fcee8eaa393f4faa393ea" kind="function"><name>Translate</name></member>
+    <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a4f2c00d0d892ad2c120c586160f7ddff" kind="function"><name>UpdateTransform</name></member>
+  </compound>
+  <compound refid="namespaceDoxygenGeneratorWindow" kind="namespace"><name>DoxygenGeneratorWindow</name>
+    <member refid="namespaceDoxygenGeneratorWindow_1a0f776a0aa7d33a4f3663cccf4fdd9ecd" kind="enum"><name>DGWTools</name></member>
+    <member refid="namespaceDoxygenGeneratorWindow_1a0f776a0aa7d33a4f3663cccf4fdd9ecda7f20b283fe8e6e7416c8090e0660c2fe" kind="enumvalue"><name>Doxygen</name></member>
+  </compound>
+  <compound refid="namespaceSystem" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Collections" kind="namespace"><name>System::Collections</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Collections_1_1Generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1IO" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespaceSystem_1_1Threading" kind="namespace"><name>System::Threading</name>
+  </compound>
+  <compound refid="namespaceUnityEditor" kind="namespace"><name>UnityEditor</name>
+  </compound>
+  <compound refid="namespaceUnityEditor_1_1Build" kind="namespace"><name>UnityEditor::Build</name>
+  </compound>
+  <compound refid="namespaceUnityEngine" kind="namespace"><name>UnityEngine</name>
+  </compound>
+  <compound refid="namespaceUnityEngine_1_1InputSystem" kind="namespace"><name>UnityEngine::InputSystem</name>
+  </compound>
+  <compound refid="namespaceUnityEngine_1_1InputSystem_1_1Controls" kind="namespace"><name>UnityEngine::InputSystem::Controls</name>
+  </compound>
+  <compound refid="namespaceUnityTemplateProjects" kind="namespace"><name>UnityTemplateProjects</name>
+  </compound>
+  <compound refid="DGWFindPackage_8cs" kind="file"><name>DGWFindPackage.cs</name>
+  </compound>
+  <compound refid="DGWMacroDefine_8cs" kind="file"><name>DGWMacroDefine.cs</name>
+  </compound>
+  <compound refid="README_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="DGWConfig_8cs" kind="file"><name>DGWConfig.cs</name>
+  </compound>
+  <compound refid="DGWConfigList_8cs" kind="file"><name>DGWConfigList.cs</name>
+  </compound>
+  <compound refid="DGWConstants_8cs" kind="file"><name>DGWConstants.cs</name>
+  </compound>
+  <compound refid="DGWDocumentationGenerator_8cs" kind="file"><name>DGWDocumentationGenerator.cs</name>
+  </compound>
+  <compound refid="DGWDocumentationGenerator__doxygen_8cs" kind="file"><name>DGWDocumentationGenerator_doxygen.cs</name>
+  </compound>
+  <compound refid="DGWEditorMenu_8cs" kind="file"><name>DGWEditorMenu.cs</name>
+  </compound>
+  <compound refid="DGWToolbox_8cs" kind="file"><name>DGWToolbox.cs</name>
+  </compound>
+  <compound refid="SimpleCameraController_8cs" kind="file"><name>SimpleCameraController.cs</name>
+  </compound>
+  <compound refid="ReadmeEditor_8cs" kind="file"><name>ReadmeEditor.cs</name>
+  </compound>
+  <compound refid="Readme_8cs" kind="file"><name>Readme.cs</name>
+  </compound>
+  <compound refid="md_Assets_DoxygenGeneratorWindow_README" kind="page"><name>md_Assets_DoxygenGeneratorWindow_README</name>
+  </compound>
+  <compound refid="dir_84bbf7b3c7f28a5a18725745e1505219" kind="dir"><name>Assets</name>
+  </compound>
+  <compound refid="dir_f69428a92b557b964425b6cb190be8d1" kind="dir"><name>Assets/DoxygenGeneratorWindow</name>
+  </compound>
+  <compound refid="dir_ab514b0aad6cd23bd9f4ff3a82bf10cf" kind="dir"><name>Assets/TutorialInfo/Scripts/Editor</name>
+  </compound>
+  <compound refid="dir_26d5b3f067847496bcfdd30729327e08" kind="dir"><name>Assets/DoxygenGeneratorWindow/Scripts/Editor</name>
+  </compound>
+  <compound refid="dir_f13b41af88cf68434578284aaf699e39" kind="dir"><name>Assets/Scripts</name>
+  </compound>
+  <compound refid="dir_33f7ee35684be607f5888637f435b892" kind="dir"><name>Assets/TutorialInfo/Scripts</name>
+  </compound>
+  <compound refid="dir_9d8b80b7c973ca8afa6976d6ea506dfa" kind="dir"><name>Assets/DoxygenGeneratorWindow/Scripts</name>
+  </compound>
+  <compound refid="dir_c7cefc64f95df4b9b787523dcffe7e75" kind="dir"><name>Assets/TutorialInfo</name>
+  </compound>
+</doxygenindex>

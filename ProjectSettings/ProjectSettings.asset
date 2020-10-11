@@ -581,7 +581,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: DOXYGEN_GENERATOR_WINDOW
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 1

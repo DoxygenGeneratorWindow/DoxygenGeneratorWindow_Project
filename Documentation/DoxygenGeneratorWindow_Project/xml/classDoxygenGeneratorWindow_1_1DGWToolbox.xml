@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classDoxygenGeneratorWindow_1_1DGWToolbox" kind="class" language="C#" prot="public">
+    <compoundname>DoxygenGeneratorWindow::DGWToolbox</compoundname>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData" prot="public">DoxygenGeneratorWindow::DGWToolbox::ThreadData</innerclass>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1af937ddb4643b9399af356355d36131d5" prot="private" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int finishCount</definition>
+        <argsstring></argsstring>
+        <name>finishCount</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="37" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1ae8b85b4f519a4945ba9ea43e9b503531" prot="private" static="yes" mutable="no">
+        <type>Mutex</type>
+        <definition>Mutex mutex</definition>
+        <argsstring></argsstring>
+        <name>mutex</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="38" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="38" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1a6c1dcce7b315a3778eba76e1ebfe9239" prot="private" static="yes" mutable="no">
+        <type>Color []</type>
+        <definition>Color [] newColors</definition>
+        <argsstring></argsstring>
+        <name>newColors</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="32" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1a591f838fcc482a9bc7934c46f92d3a90" prot="private" static="yes" mutable="no">
+        <type>float</type>
+        <definition>float ratioX</definition>
+        <argsstring></argsstring>
+        <name>ratioX</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="34" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="34" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1af6619759b5dc31cda2d8abfb2e9c7753" prot="private" static="yes" mutable="no">
+        <type>float</type>
+        <definition>float ratioY</definition>
+        <argsstring></argsstring>
+        <name>ratioY</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="35" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="35" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1acae1a0542ef91329017a2e6398cf987c" prot="private" static="yes" mutable="no">
+        <type>Color []</type>
+        <definition>Color [] texColors</definition>
+        <argsstring></argsstring>
+        <name>texColors</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="31" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1aac374e320caaadeca4874add33b62af2" prot="private" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int w</definition>
+        <argsstring></argsstring>
+        <name>w</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="33" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1a2ce538d76a0adc5272d9e55ba8fe89fc" prot="private" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int w2</definition>
+        <argsstring></argsstring>
+        <name>w2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="36" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1ab56f5772a55e42f17bcf2114374d3aed" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Bilinear</definition>
+        <argsstring>(Texture2D tex, int newWidth, int newHeight) </argsstring>
+        <name>Bilinear</name>
+        <param>
+          <type>Texture2D</type>
+          <declname>tex</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>newWidth</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>newHeight</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="45" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="45" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1aa9f282abad8dee7f60daa8216f0cc6eb" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void BilinearScale</definition>
+        <argsstring>(System.Object obj) </argsstring>
+        <name>BilinearScale</name>
+        <param>
+          <type>System.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="120" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="120" bodyend="143"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1a1b4cb5d375b266e3d81dfc4719358624" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Point</definition>
+        <argsstring>(Texture2D tex, int newWidth, int newHeight) </argsstring>
+        <name>Point</name>
+        <param>
+          <type>Texture2D</type>
+          <declname>tex</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>newWidth</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>newHeight</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="40" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="40" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1a175bb6d141e11fc95f44215b6f6eb34e" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void PointScale</definition>
+        <argsstring>(System.Object obj) </argsstring>
+        <name>PointScale</name>
+        <param>
+          <type>System.Object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="145" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="145" bodyend="161"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1a63baf15abfa16cae4c527157e97b298e" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void ThreadedScale</definition>
+        <argsstring>(Texture2D tex, int newWidth, int newHeight, bool useBilinear) </argsstring>
+        <name>ThreadedScale</name>
+        <param>
+          <type>Texture2D</type>
+          <declname>tex</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>newWidth</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>newHeight</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>useBilinear</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="50" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="50" bodyend="118"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1aa4d2671a992d6600d064b14c03469de9" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Color</type>
+        <definition>static Color ColorLerpUnclamped</definition>
+        <argsstring>(Color c1, Color c2, float value) </argsstring>
+        <name>ColorLerpUnclamped</name>
+        <param>
+          <type>Color</type>
+          <declname>c1</declname>
+        </param>
+        <param>
+          <type>Color</type>
+          <declname>c2</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="163" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="163" bodyend="169"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="16" column="11" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="17" bodyend="171"/>
+    <listofallmembers>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1ab56f5772a55e42f17bcf2114374d3aed" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>Bilinear</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1aa9f282abad8dee7f60daa8216f0cc6eb" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>BilinearScale</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1aa4d2671a992d6600d064b14c03469de9" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>ColorLerpUnclamped</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1af937ddb4643b9399af356355d36131d5" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>finishCount</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1ae8b85b4f519a4945ba9ea43e9b503531" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>mutex</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a6c1dcce7b315a3778eba76e1ebfe9239" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>newColors</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a1b4cb5d375b266e3d81dfc4719358624" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>Point</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a175bb6d141e11fc95f44215b6f6eb34e" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>PointScale</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a591f838fcc482a9bc7934c46f92d3a90" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>ratioX</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1af6619759b5dc31cda2d8abfb2e9c7753" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>ratioY</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1acae1a0542ef91329017a2e6398cf987c" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>texColors</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a63baf15abfa16cae4c527157e97b298e" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>ThreadedScale</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1aac374e320caaadeca4874add33b62af2" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>w</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1a2ce538d76a0adc5272d9e55ba8fe89fc" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox</scope><name>w2</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

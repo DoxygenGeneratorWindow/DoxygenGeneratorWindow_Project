@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState" kind="class" language="C#" prot="private">
+    <compoundname>UnityTemplateProjects::SimpleCameraController::CameraState</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a282e7d4378d4a18a805b8980295ac86c" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float pitch</definition>
+        <argsstring></argsstring>
+        <name>pitch</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="16" column="26" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a26fd84d522945b6038221d9e38c7cc39" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float roll</definition>
+        <argsstring></argsstring>
+        <name>roll</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="17" column="26" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1ad0da36b2558901e21e7a30f6c227a45e" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float x</definition>
+        <argsstring></argsstring>
+        <name>x</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="18" column="26" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1aa4f0d3eebc3c443f9be81bf48561a217" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float y</definition>
+        <argsstring></argsstring>
+        <name>y</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="19" column="26" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a7efc219781df4a1e281cb5d348b7fbf9" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float yaw</definition>
+        <argsstring></argsstring>
+        <name>yaw</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="15" column="26" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1af73583b1e980b0aa03f9884812e9fd4d" prot="public" static="no" mutable="no">
+        <type>float</type>
+        <definition>float z</definition>
+        <argsstring></argsstring>
+        <name>z</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="20" column="26" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1ae3c4979c8dafbc359fac5ffc6cdc39fc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void LerpTowards</definition>
+        <argsstring>(CameraState target, float positionLerpPct, float rotationLerpPct) </argsstring>
+        <name>LerpTowards</name>
+        <param>
+          <type>CameraState</type>
+          <declname>target</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>positionLerpPct</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>rotationLerpPct</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="41" column="25" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="41" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a89dafff7f5dc274e316f1699165ff3f3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void SetFromTransform</definition>
+        <argsstring>(Transform t) </argsstring>
+        <name>SetFromTransform</name>
+        <param>
+          <type>Transform</type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="22" column="25" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="22" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a7ddd1d0bdc0fcee8eaa393f4faa393ea" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Translate</definition>
+        <argsstring>(Vector3 translation) </argsstring>
+        <name>Translate</name>
+        <param>
+          <type>Vector3</type>
+          <declname>translation</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="32" column="25" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="32" bodyend="39"/>
+      </memberdef>
+      <memberdef kind="function" id="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a4f2c00d0d892ad2c120c586160f7ddff" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void UpdateTransform</definition>
+        <argsstring>(Transform t) </argsstring>
+        <name>UpdateTransform</name>
+        <param>
+          <type>Transform</type>
+          <declname>t</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/Scripts/SimpleCameraController.cs" line="52" column="25" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="52" bodyend="56"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/Scripts/SimpleCameraController.cs" line="13" column="9" bodyfile="Assets/Scripts/SimpleCameraController.cs" bodystart="14" bodyend="57"/>
+    <listofallmembers>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1ae3c4979c8dafbc359fac5ffc6cdc39fc" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>LerpTowards</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a282e7d4378d4a18a805b8980295ac86c" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>pitch</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a26fd84d522945b6038221d9e38c7cc39" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>roll</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a89dafff7f5dc274e316f1699165ff3f3" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>SetFromTransform</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a7ddd1d0bdc0fcee8eaa393f4faa393ea" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>Translate</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a4f2c00d0d892ad2c120c586160f7ddff" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>UpdateTransform</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1ad0da36b2558901e21e7a30f6c227a45e" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>x</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1aa4f0d3eebc3c443f9be81bf48561a217" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>y</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1a7efc219781df4a1e281cb5d348b7fbf9" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>yaw</name></member>
+      <member refid="classUnityTemplateProjects_1_1SimpleCameraController_1_1CameraState_1af73583b1e980b0aa03f9884812e9fd4d" prot="public" virt="non-virtual"><scope>UnityTemplateProjects::SimpleCameraController::CameraState</scope><name>z</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

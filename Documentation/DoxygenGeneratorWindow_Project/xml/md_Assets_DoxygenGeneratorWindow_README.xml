@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="md_Assets_DoxygenGeneratorWindow_README" kind="page">
+    <compoundname>md_Assets_DoxygenGeneratorWindow_README</compoundname>
+    <title>Doxygen Generator Window</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><image type="html" name="https://img.shields.io/badge/unity-osx-green.svg?logo=unity" inline="yes"></image>
+ <image type="html" name="https://img.shields.io/badge/unity-win-green.svg?logo=unity" inline="yes"></image>
+ <image type="html" name="https://img.shields.io/badge/Doxygen-osx-green.svg?logo=doxygen" inline="yes"></image>
+ <image type="html" name="https://img.shields.io/badge/Doxygen-win-green.svg?logo=doxygen" inline="yes"></image>
+</para>
+<para><image type="html" name="https://img.shields.io/badge/language-C%23-blue.svg?logo=C-sharp" inline="yes"></image>
+ <image type="html" name="https://img.shields.io/badge/visual--studio-badge-blue.svg?logo=visual-studio" inline="yes"></image>
+ <image type="html" name="https://img.shields.io/badge/git-github-blue.svg?logo=git" inline="yes"></image>
+</para>
+<para><heading level="1">An extension to integrate Doxygen© in Unity© Projects.</heading>
+</para>
+<para>Doxygen© Generator Window add possibility to generate Header documentation folder form directories in Unity©. It&apos;s supporting multi-directories parameters.</para>
+<para><heading level="1">Installation</heading>
+</para>
+<para><heading level="2">Checkout</heading>
+</para>
+<para><itemizedlist>
+<listitem><para>go to your unity project&apos;s directory</para>
+</listitem></itemizedlist>
+</para>
+<para><programlisting filename=".shell"><codeline><highlight class="normal">cd<sp/>&lt;your_project&gt;</highlight></codeline>
+</programlisting></para>
+<para><itemizedlist>
+<listitem><para>checkout submodule NetWorkedData</para>
+</listitem></itemizedlist>
+</para>
+<para><programlisting filename=".shell"><codeline><highlight class="normal">cd<sp/>&lt;your_project_path&gt;/Assets</highlight></codeline>
+<codeline><highlight class="normal">git<sp/>submodule<sp/>add<sp/>--force<sp/>git@github.com:idemobi/DoxygenGeneratorWindow.git</highlight></codeline>
+</programlisting></para>
+<para><heading level="2">Download Doxygen</heading>
+</para>
+<para><itemizedlist>
+<listitem><para>go to <ulink url="https://www.doxygen.nl">https://www.doxygen.nl</ulink></para>
+</listitem><listitem><para>download Doxygen© for your system</para>
+</listitem><listitem><para>install Doxygen©</para>
+</listitem></itemizedlist>
+</para>
+<para><heading level="2">Launch your project</heading>
+</para>
+<para><itemizedlist>
+<listitem><para>select Doxygen Generator Window in menu</para>
+</listitem></itemizedlist>
+</para>
+<para><image type="html" name="https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_0.png" inline="yes"></image>
+</para>
+<para><itemizedlist>
+<listitem><para>select path of Doxygen (you just downloaded it...)</para>
+</listitem><listitem><para>select path of Folder sources (your source code...)</para>
+</listitem><listitem><para>select destination path <image type="html" name="https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_1.png" inline="yes"></image>
+</para>
+</listitem><listitem><para>fill the form</para>
+</listitem><listitem><para>select your options <image type="html" name="https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_2.png" inline="yes"></image>
+</para>
+</listitem><listitem><para>click on &quot;Generate&quot;</para>
+</listitem><listitem><para>enjoy your documentation <image type="html" name="https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_3.png" inline="yes"></image>
+</para>
+</listitem></itemizedlist>
+</para>
+<para><image type="html" name="https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_4.png" inline="yes"></image>
+</para>
+<para><itemizedlist>
+<listitem><para>generate your code</para>
+</listitem></itemizedlist>
+</para>
+<para><heading level="1">Thanks</heading>
+</para>
+<para><table rows="3" cols="2"><row>
+<entry thead="yes"><para></para>
+</entry><entry thead="yes"><para></para>
+</entry></row>
+<row>
+<entry thead="no"><para>Doxygen©  </para>
+</entry><entry thead="no"><para><ulink url="https://www.doxygen.nl">https://www.doxygen.nl</ulink>   </para>
+</entry></row>
+<row>
+<entry thead="no"><para>Unity©  </para>
+</entry><entry thead="no"><para><ulink url="https://www.unity.com">https://www.unity.com</ulink>   </para>
+</entry></row>
+</table>
+</para>
+    </detaileddescription>
+  </compounddef>
+</doxygen>

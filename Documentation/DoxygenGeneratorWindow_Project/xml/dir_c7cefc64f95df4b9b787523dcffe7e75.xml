@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="dir_c7cefc64f95df4b9b787523dcffe7e75" kind="dir">
+    <compoundname>Assets/TutorialInfo</compoundname>
+    <innerdir refid="dir_33f7ee35684be607f5888637f435b892">Assets/TutorialInfo/Scripts</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/TutorialInfo/"/>
+  </compounddef>
+</doxygen>

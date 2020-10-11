@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classReadme_1_1Section" kind="class" language="C#" prot="public">
+    <compoundname>Readme::Section</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classReadme_1_1Section_1a090acb0f487772ef52f166987fabfd66" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string heading</definition>
+        <argsstring></argsstring>
+        <name>heading</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="12" column="15" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classReadme_1_1Section_1a989b6272228bfbaa192468dd98cbfe98" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string linkText</definition>
+        <argsstring></argsstring>
+        <name>linkText</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="12" column="28" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadme_1_1Section_1a739bd7e413e61c963681e085a990979a" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string text</definition>
+        <argsstring></argsstring>
+        <name>text</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="12" column="23" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadme_1_1Section_1aa03c1ef4c41f36b048cf58d5aade7653" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string url</definition>
+        <argsstring></argsstring>
+        <name>url</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="12" column="37" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="11" column="7" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="11" bodyend="13"/>
+    <listofallmembers>
+      <member refid="classReadme_1_1Section_1a090acb0f487772ef52f166987fabfd66" prot="public" virt="non-virtual"><scope>Readme::Section</scope><name>heading</name></member>
+      <member refid="classReadme_1_1Section_1a989b6272228bfbaa192468dd98cbfe98" prot="private" virt="non-virtual"><scope>Readme::Section</scope><name>linkText</name></member>
+      <member refid="classReadme_1_1Section_1a739bd7e413e61c963681e085a990979a" prot="private" virt="non-virtual"><scope>Readme::Section</scope><name>text</name></member>
+      <member refid="classReadme_1_1Section_1aa03c1ef4c41f36b048cf58d5aade7653" prot="private" virt="non-virtual"><scope>Readme::Section</scope><name>url</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

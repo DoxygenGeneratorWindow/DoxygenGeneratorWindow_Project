@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData" kind="class" language="C#" prot="public">
+    <compoundname>DoxygenGeneratorWindow::DGWToolbox::ThreadData</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1abce9f5dc9c83f2639b72024fdee5d388" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int end</definition>
+        <argsstring></argsstring>
+        <name>end</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="23" column="12" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1a37722a150250e2a5a98e5e0d11e53449" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int start</definition>
+        <argsstring></argsstring>
+        <name>start</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="22" column="12" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="22" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1a4d8353de16f684c03f5c841521d218f1" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>ThreadData</definition>
+        <argsstring>(int s, int e) </argsstring>
+        <name>ThreadData</name>
+        <param>
+          <type>int</type>
+          <declname>s</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="24" column="8" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="24" bodyend="28"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" line="20" column="7" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWToolbox.cs" bodystart="21" bodyend="29"/>
+    <listofallmembers>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1abce9f5dc9c83f2639b72024fdee5d388" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox::ThreadData</scope><name>end</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1a37722a150250e2a5a98e5e0d11e53449" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox::ThreadData</scope><name>start</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWToolbox_1_1ThreadData_1a4d8353de16f684c03f5c841521d218f1" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWToolbox::ThreadData</scope><name>ThreadData</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

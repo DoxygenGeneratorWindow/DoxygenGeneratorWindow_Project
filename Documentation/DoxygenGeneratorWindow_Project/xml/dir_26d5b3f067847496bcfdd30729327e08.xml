@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="dir_26d5b3f067847496bcfdd30729327e08" kind="dir">
+    <compoundname>Assets/DoxygenGeneratorWindow/Scripts/Editor</compoundname>
+    <innerfile refid="DGWConfig_8cs">DGWConfig.cs</innerfile>
+    <innerfile refid="DGWConfigList_8cs">DGWConfigList.cs</innerfile>
+    <innerfile refid="DGWConstants_8cs">DGWConstants.cs</innerfile>
+    <innerfile refid="DGWDocumentationGenerator_8cs">DGWDocumentationGenerator.cs</innerfile>
+    <innerfile refid="DGWDocumentationGenerator__doxygen_8cs">DGWDocumentationGenerator_doxygen.cs</innerfile>
+    <innerfile refid="DGWEditorMenu_8cs">DGWEditorMenu.cs</innerfile>
+    <innerfile refid="DGWToolbox_8cs">DGWToolbox.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/"/>
+  </compounddef>
+</doxygen>

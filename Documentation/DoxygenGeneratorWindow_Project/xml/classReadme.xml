@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classReadme" kind="class" language="C#" prot="public">
+    <compoundname>Readme</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ScriptableObject</basecompoundref>
+    <innerclass refid="classReadme_1_1Section" prot="public">Readme::Section</innerclass>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classReadme_1abff1c3345bb95f3a5109abafe90cca67" prot="public" static="no" mutable="no">
+        <type>Texture2D</type>
+        <definition>Texture2D icon</definition>
+        <argsstring></argsstring>
+        <name>icon</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="5" column="18" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadme_1aaa72f213c2aabd487c22a88f5571d961" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool loadedLayout</definition>
+        <argsstring></argsstring>
+        <name>loadedLayout</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="8" column="13" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadme_1a35e9e39381f58ed4266d806f742c828a" prot="public" static="no" mutable="no">
+        <type>Section []</type>
+        <definition>Section [] sections</definition>
+        <argsstring></argsstring>
+        <name>sections</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="7" column="16" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadme_1a43a5eafe64b96968035e5a4013e47c75" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string title</definition>
+        <argsstring></argsstring>
+        <name>title</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="6" column="15" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="6" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/TutorialInfo/Scripts/Readme.cs" line="4" column="7" bodyfile="Assets/TutorialInfo/Scripts/Readme.cs" bodystart="4" bodyend="14"/>
+    <listofallmembers>
+      <member refid="classReadme_1abff1c3345bb95f3a5109abafe90cca67" prot="public" virt="non-virtual"><scope>Readme</scope><name>icon</name></member>
+      <member refid="classReadme_1aaa72f213c2aabd487c22a88f5571d961" prot="public" virt="non-virtual"><scope>Readme</scope><name>loadedLayout</name></member>
+      <member refid="classReadme_1a35e9e39381f58ed4266d806f742c828a" prot="public" virt="non-virtual"><scope>Readme</scope><name>sections</name></member>
+      <member refid="classReadme_1a43a5eafe64b96968035e5a4013e47c75" prot="public" virt="non-virtual"><scope>Readme</scope><name>title</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

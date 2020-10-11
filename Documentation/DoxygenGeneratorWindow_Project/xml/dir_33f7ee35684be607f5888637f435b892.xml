@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="dir_33f7ee35684be607f5888637f435b892" kind="dir">
+    <compoundname>Assets/TutorialInfo/Scripts</compoundname>
+    <innerdir refid="dir_ab514b0aad6cd23bd9f4ff3a82bf10cf">Assets/TutorialInfo/Scripts/Editor</innerdir>
+    <innerfile refid="Readme_8cs">Readme.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/TutorialInfo/Scripts/"/>
+  </compounddef>
+</doxygen>

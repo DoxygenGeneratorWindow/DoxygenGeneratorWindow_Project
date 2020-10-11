@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classReadmeEditor" kind="class" language="C#" prot="public">
+    <compoundname>ReadmeEditor</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Editor</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classReadmeEditor_1a6a4462117798471e83adcebc45f6482b" prot="private" static="yes" mutable="no">
+        <type>string</type>
+        <definition>string kShowedReadmeSessionStateName</definition>
+        <argsstring></argsstring>
+        <name>kShowedReadmeSessionStateName</name>
+        <initializer>= &quot;ReadmeEditor.showedReadme&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="13" column="15" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadmeEditor_1ad3c6304cfd68ebe3486f85815f7b4747" prot="private" static="yes" mutable="no">
+        <type>float</type>
+        <definition>float kSpace</definition>
+        <argsstring></argsstring>
+        <name>kSpace</name>
+        <initializer>= 16f</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="15" column="14" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classReadmeEditor_1a8f728a417302fa35b8c3f6fc5074069e" prot="private" static="no" mutable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle m_BodyStyle</definition>
+        <argsstring></argsstring>
+        <name>m_BodyStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="118" column="11" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadmeEditor_1ae46f421b561b41a643927a296509a9cd" prot="private" static="no" mutable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle m_HeadingStyle</definition>
+        <argsstring></argsstring>
+        <name>m_HeadingStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="115" column="11" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="115" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadmeEditor_1a67543f3b20462b853f968127db0c566e" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool m_Initialized</definition>
+        <argsstring></argsstring>
+        <name>m_Initialized</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="106" column="6" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadmeEditor_1a52c6172ba0583b2142079a9f8bf0ac11" prot="private" static="no" mutable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle m_LinkStyle</definition>
+        <argsstring></argsstring>
+        <name>m_LinkStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="109" column="11" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classReadmeEditor_1abbcdb14a2b009d45ac8706993c78692d" prot="private" static="no" mutable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle m_TitleStyle</definition>
+        <argsstring></argsstring>
+        <name>m_TitleStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="112" column="11" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classReadmeEditor_1a267af7025e3eae0e50517580dbd9ea9c" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle BodyStyle</definition>
+        <argsstring></argsstring>
+        <name>BodyStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="117" column="10" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="117" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="property" id="classReadmeEditor_1abae172ce3ec410ff95bcde6e8d2d3e34" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle HeadingStyle</definition>
+        <argsstring></argsstring>
+        <name>HeadingStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="114" column="10" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="114" bodyend="114"/>
+      </memberdef>
+      <memberdef kind="property" id="classReadmeEditor_1a29ed4f4e928e99f9e79f9c033a6a3069" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle LinkStyle</definition>
+        <argsstring></argsstring>
+        <name>LinkStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="108" column="10" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="108" bodyend="108"/>
+      </memberdef>
+      <memberdef kind="property" id="classReadmeEditor_1ab55e0d87f2bc06b1b577317aa65293af" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>GUIStyle</type>
+        <definition>GUIStyle TitleStyle</definition>
+        <argsstring></argsstring>
+        <name>TitleStyle</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="111" column="10" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="111" bodyend="111"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classReadmeEditor_1a5475c15b06ed0e8559985e7ca662b9f1" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>static</type>
+        <definition>static ReadmeEditor</definition>
+        <argsstring>() </argsstring>
+        <name>ReadmeEditor</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="17" column="8" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="17" bodyend="20"/>
+      </memberdef>
+      <memberdef kind="function" id="classReadmeEditor_1ad89fb8cf467c904574a49c59d3c57739" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void LoadLayout</definition>
+        <argsstring>() </argsstring>
+        <name>LoadLayout</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="37" column="13" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="37" bodyend="43"/>
+      </memberdef>
+      <memberdef kind="function" id="classReadmeEditor_1ad61ff0a8c60f44caa0f36c90df767324" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type><ref refid="classReadme" kindref="compound">Readme</ref></type>
+        <definition>static Readme SelectReadme</definition>
+        <argsstring>() </argsstring>
+        <name>SelectReadme</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="46" column="15" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="46" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="classReadmeEditor_1afa134c2a951f764a90711dd6d740399e" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void SelectReadmeAutomatically</definition>
+        <argsstring>() </argsstring>
+        <name>SelectReadmeAutomatically</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="22" column="13" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="22" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classReadmeEditor_1a5a62c009860d8b118be34375428de40e" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void OnHeaderGUI</definition>
+        <argsstring>() </argsstring>
+        <name>OnHeaderGUI</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="64" column="25" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="64" bodyend="77"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classReadmeEditor_1a9a45639d2613f81f6ed0f30a494197b2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void OnInspectorGUI</definition>
+        <argsstring>() </argsstring>
+        <name>OnInspectorGUI</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="79" column="22" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="79" bodyend="103"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classReadmeEditor_1a09ec0d0ed214a455e7f00415ce0b7759" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Init</definition>
+        <argsstring>() </argsstring>
+        <name>Init</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="120" column="6" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="120" bodyend="141"/>
+      </memberdef>
+      <memberdef kind="function" id="classReadmeEditor_1aaeb047752749d3afa69045279176479d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool LinkLabel</definition>
+        <argsstring>(GUIContent label, params GUILayoutOption[] options) </argsstring>
+        <name>LinkLabel</name>
+        <param>
+          <type>GUIContent</type>
+          <declname>label</declname>
+        </param>
+        <param>
+          <type>params GUILayoutOption  []</type>
+          <declname>options</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="143" column="6" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="143" bodyend="156"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" line="11" column="7" bodyfile="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" bodystart="11" bodyend="157"/>
+    <listofallmembers>
+      <member refid="classReadmeEditor_1a267af7025e3eae0e50517580dbd9ea9c" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>BodyStyle</name></member>
+      <member refid="classReadmeEditor_1abae172ce3ec410ff95bcde6e8d2d3e34" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>HeadingStyle</name></member>
+      <member refid="classReadmeEditor_1a09ec0d0ed214a455e7f00415ce0b7759" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>Init</name></member>
+      <member refid="classReadmeEditor_1a6a4462117798471e83adcebc45f6482b" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>kShowedReadmeSessionStateName</name></member>
+      <member refid="classReadmeEditor_1ad3c6304cfd68ebe3486f85815f7b4747" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>kSpace</name></member>
+      <member refid="classReadmeEditor_1aaeb047752749d3afa69045279176479d" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>LinkLabel</name></member>
+      <member refid="classReadmeEditor_1a29ed4f4e928e99f9e79f9c033a6a3069" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>LinkStyle</name></member>
+      <member refid="classReadmeEditor_1ad89fb8cf467c904574a49c59d3c57739" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>LoadLayout</name></member>
+      <member refid="classReadmeEditor_1a8f728a417302fa35b8c3f6fc5074069e" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>m_BodyStyle</name></member>
+      <member refid="classReadmeEditor_1ae46f421b561b41a643927a296509a9cd" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>m_HeadingStyle</name></member>
+      <member refid="classReadmeEditor_1a67543f3b20462b853f968127db0c566e" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>m_Initialized</name></member>
+      <member refid="classReadmeEditor_1a52c6172ba0583b2142079a9f8bf0ac11" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>m_LinkStyle</name></member>
+      <member refid="classReadmeEditor_1abbcdb14a2b009d45ac8706993c78692d" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>m_TitleStyle</name></member>
+      <member refid="classReadmeEditor_1a5a62c009860d8b118be34375428de40e" prot="protected" virt="non-virtual"><scope>ReadmeEditor</scope><name>OnHeaderGUI</name></member>
+      <member refid="classReadmeEditor_1a9a45639d2613f81f6ed0f30a494197b2" prot="public" virt="non-virtual"><scope>ReadmeEditor</scope><name>OnInspectorGUI</name></member>
+      <member refid="classReadmeEditor_1a5475c15b06ed0e8559985e7ca662b9f1" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>ReadmeEditor</name></member>
+      <member refid="classReadmeEditor_1ad61ff0a8c60f44caa0f36c90df767324" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>SelectReadme</name></member>
+      <member refid="classReadmeEditor_1afa134c2a951f764a90711dd6d740399e" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>SelectReadmeAutomatically</name></member>
+      <member refid="classReadmeEditor_1ab55e0d87f2bc06b1b577317aa65293af" prot="private" virt="non-virtual"><scope>ReadmeEditor</scope><name>TitleStyle</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

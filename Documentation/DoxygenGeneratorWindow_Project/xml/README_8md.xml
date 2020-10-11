@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="README_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>Doxygen<sp/>Generator<sp/>Window</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">![IDE](https://img.shields.io/badge/unity-osx-green.svg?logo=unity)</highlight></codeline>
+<codeline><highlight class="normal">![IDE](https://img.shields.io/badge/unity-win-green.svg?logo=unity)</highlight></codeline>
+<codeline><highlight class="normal">![EXT](https://img.shields.io/badge/Doxygen-osx-green.svg?logo=doxygen)</highlight></codeline>
+<codeline><highlight class="normal">![EXT](https://img.shields.io/badge/Doxygen-win-green.svg?logo=doxygen)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">![Language<sp/>Status](https://img.shields.io/badge/language-C%23-blue.svg?logo=C-sharp)</highlight></codeline>
+<codeline><highlight class="normal">![IDE](https://img.shields.io/badge/visual--studio-badge-blue.svg?logo=visual-studio)</highlight></codeline>
+<codeline><highlight class="normal">![VCS](https://img.shields.io/badge/git-github-blue.svg?logo=git)</highlight></codeline>
+<codeline></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>An<sp/>extension<sp/>to<sp/>integrate<sp/>Doxygen©<sp/>in<sp/>Unity©<sp/>Projects.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">Doxygen©<sp/>Generator<sp/>Window<sp/>add<sp/>possibility<sp/>to<sp/>generate<sp/>Header<sp/>documentation<sp/>folder<sp/>form<sp/>directories<sp/>in<sp/>Unity©.<sp/>It&apos;s<sp/>supporting<sp/>multi-directories<sp/>parameters.</highlight></codeline>
+<codeline></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>Installation</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">###<sp/>Checkout</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/><sp/>go<sp/>to<sp/>your<sp/>unity<sp/>project&apos;s<sp/>directory</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">```shell</highlight></codeline>
+<codeline><highlight class="normal">cd<sp/>&lt;your_project&gt;</highlight></codeline>
+<codeline><highlight class="normal">```</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>checkout<sp/>submodule<sp/>NetWorkedData</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">```shell</highlight></codeline>
+<codeline><highlight class="normal">cd<sp/>&lt;your_project_path&gt;/Assets</highlight></codeline>
+<codeline><highlight class="normal">git<sp/>submodule<sp/>add<sp/>--force<sp/>git@github.com:idemobi/DoxygenGeneratorWindow.git</highlight></codeline>
+<codeline><highlight class="normal">```</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">###<sp/>Download<sp/>Doxygen<sp/></highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>go<sp/>to<sp/>https://www.doxygen.nl</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>download<sp/>Doxygen©<sp/>for<sp/>your<sp/>system</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>install<sp/>Doxygen©</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">###<sp/>Launch<sp/>your<sp/>project<sp/></highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>select<sp/>Doxygen<sp/>Generator<sp/>Window<sp/>in<sp/>menu<sp/></highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">![IMG](https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_0.png)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>select<sp/>path<sp/>of<sp/>Doxygen<sp/>(you<sp/>just<sp/>downloaded<sp/>it...)</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>select<sp/>path<sp/>of<sp/>Folder<sp/>sources<sp/>(your<sp/>source<sp/>code...)</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>select<sp/>destination<sp/>path</highlight></codeline>
+<codeline><highlight class="normal">![IMG](https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_1.png)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>fill<sp/>the<sp/>form<sp/></highlight></codeline>
+<codeline><highlight class="normal">-<sp/>select<sp/>your<sp/>options</highlight></codeline>
+<codeline><highlight class="normal">![IMG](https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_2.png)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>click<sp/>on<sp/>&quot;Generate&quot;</highlight></codeline>
+<codeline><highlight class="normal">-<sp/>enjoy<sp/>your<sp/>documentation</highlight></codeline>
+<codeline><highlight class="normal">![IMG](https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_3.png)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">![IMG](https://github.com/idemobi/DoxygenGeneratorWindow/raw/release/.README/screen_4.png)</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">-<sp/>generate<sp/>your<sp/>code<sp/></highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">##<sp/>Thanks</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>|<sp/>|<sp/></highlight></codeline>
+<codeline><highlight class="normal">|---|---|<sp/></highlight></codeline>
+<codeline><highlight class="normal">|<sp/>Doxygen©<sp/>|<sp/>https://www.doxygen.nl<sp/>|</highlight></codeline>
+<codeline><highlight class="normal">|<sp/>Unity©<sp/>|<sp/>https://www.unity.com<sp/>|</highlight></codeline>
+<codeline></codeline>
+    </programlisting>
+    <location file="Assets/DoxygenGeneratorWindow/README.md"/>
+  </compounddef>
+</doxygen>

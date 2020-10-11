@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator" kind="class" language="C#" prot="public">
+    <compoundname>DoxygenGeneratorWindow::DGWDocumentationGenerator</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">EditorWindow</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aa123de76ad0a6b7d1d8700647adac949" prot="private" static="yes" mutable="no">
+        <type>const float</type>
+        <definition>const float k_PathButtonWidth</definition>
+        <argsstring></argsstring>
+        <name>k_PathButtonWidth</name>
+        <initializer>= 20.0F</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="41" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab59155c71180c2c659a2a92ebdef3cb8" prot="private" static="yes" mutable="no">
+        <type>const string</type>
+        <definition>const string K_PathToDOxygenOSX_key</definition>
+        <argsstring></argsstring>
+        <name>K_PathToDOxygenOSX_key</name>
+        <initializer>= &quot;OSX_key&quot;</initializer>
+        <briefdescription>
+<para><ulink url="https://mcss.mosra.cz/documentation/doxygen/">https://mcss.mosra.cz/documentation/doxygen/</ulink> </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="23" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a27d6bdeb7202e18d9f3b26f3e9bd22ee" prot="private" static="yes" mutable="no">
+        <type>const string</type>
+        <definition>const string K_PathToDOxygenWIN_key</definition>
+        <argsstring></argsstring>
+        <name>K_PathToDOxygenWIN_key</name>
+        <initializer>= &quot;WIN_key&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="25" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a334085797211b01dff85f066bfbe9128" prot="private" static="yes" mutable="no">
+        <type>const string</type>
+        <definition>const string K_TEXTL_DOXYGEN</definition>
+        <argsstring></argsstring>
+        <name>K_TEXTL_DOXYGEN</name>
+        <initializer>= &quot;Go to Doxygen© website&quot;</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="32" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="32" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a52d47c7d99e5e807edb0fd97e83b1939" prot="private" static="yes" mutable="no">
+        <type>const string</type>
+        <definition>const string K_URL_DOXYGEN</definition>
+        <argsstring></argsstring>
+        <name>K_URL_DOXYGEN</name>
+        <initializer>= &quot;https://www.doxygen.nl/download.html&quot;</initializer>
+        <briefdescription>
+<para>The DOXYGEN URL. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="31" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aac78f64d10530e9c66b36a80b0804e3c" prot="private" static="yes" mutable="no">
+        <type>bool</type>
+        <definition>bool kGroupResetState</definition>
+        <argsstring></argsstring>
+        <name>kGroupResetState</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+<para>The state of the group reset. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="67" column="29" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a0c5205fb7226436a3bd68a6ca750ee45" prot="private" static="yes" mutable="no">
+        <type>DGWDocumentationGenerator</type>
+        <definition>DGWDocumentationGenerator kSharedInstance</definition>
+        <argsstring></argsstring>
+        <name>kSharedInstance</name>
+        <briefdescription>
+<para>The shared instance. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="46" column="50" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a3ac8443104c638c0b61a841fec5361b4" prot="private" static="no" mutable="no">
+        <type>DGWConfig</type>
+        <definition>DGWConfig Config</definition>
+        <argsstring></argsstring>
+        <name>Config</name>
+        <briefdescription>
+<para>The config of this project. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="51" column="27" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a7787bfc184572864862cba5d846cf600" prot="private" static="no" mutable="no">
+        <type>DGWConfigList</type>
+        <definition>DGWConfigList ConfigList</definition>
+        <argsstring></argsstring>
+        <name>ConfigList</name>
+        <briefdescription>
+<para>The list config </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="55" column="31" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a96d9a7d0b0d7e64250be4d87b11d2248" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool OutIsOk</definition>
+        <argsstring></argsstring>
+        <name>OutIsOk</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+<para>Check if generation can be execute </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="71" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab18fc7369e955cd707822f599cd2a726" prot="private" static="no" mutable="no">
+        <type>Vector2</type>
+        <definition>Vector2 ScrollPosition</definition>
+        <argsstring></argsstring>
+        <name>ScrollPosition</name>
+        <briefdescription>
+<para>The scroll position of scrollview. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="59" column="25" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a081bcc409dad2dc380fa85c9e1c3235d" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool WorkInProgress</definition>
+        <argsstring></argsstring>
+        <name>WorkInProgress</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+<para>Work in progress or not. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="63" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1abaa8f77e3be119ecd8144446b9ed292b" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>Texture2D</type>
+        <definition>static Texture2D DeCompress</definition>
+        <argsstring>(Texture2D sSource) </argsstring>
+        <name>DeCompress</name>
+        <param>
+          <type>Texture2D</type>
+          <declname>sSource</declname>
+        </param>
+        <briefdescription>
+<para>decompress texture in new texture to save in png file </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sSource</parametername>
+</parameternamelist>
+<parameterdescription>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para></para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="723" column="33" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="723" bodyend="735"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ae13b9614dce4bcdd3fcc24354910a4a6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>DGWDocumentationGenerator</type>
+        <definition>static DGWDocumentationGenerator SharedInstance</definition>
+        <argsstring>() </argsstring>
+        <name>SharedInstance</name>
+        <briefdescription>
+<para>Ascencor to shared instance. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>The shared instance.</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="77" column="49" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="77" bodyend="86"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5bac79a047248fc6d5d4b536c2550ee2" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void PrepareWindow</definition>
+        <argsstring>() </argsstring>
+        <name>PrepareWindow</name>
+        <briefdescription>
+<para>Prepare the window. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="93" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="93" bodyend="98"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ad7d9716d5d31ecea6d54e73c05c1efe4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OnEnable</definition>
+        <argsstring>() </argsstring>
+        <name>OnEnable</name>
+        <briefdescription>
+<para>Raises the enable event. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="103" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="103" bodyend="107"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a1bf4af51249f8e35e232f40b0b73da17" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string YesOrNo</definition>
+        <argsstring>(bool sValue) </argsstring>
+        <name>YesOrNo</name>
+        <param>
+          <type>bool</type>
+          <declname>sValue</declname>
+        </param>
+        <briefdescription>
+<para>Conversion bool to string YES or NO for config fill. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>The or no.</para>
+</simplesect>
+<parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sValue</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>If set to <computeroutput>true</computeroutput> value.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="159" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="159" bodyend="170"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1af4de68005ecebdd50b0a3a95b771a2da" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void FinishDoxygen</definition>
+        <argsstring>() </argsstring>
+        <name>FinishDoxygen</name>
+        <briefdescription>
+<para>Finish generation. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="707" column="14" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="707" bodyend="716"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a8c1de1d8e5dfe78335d819c5adfcc5c2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void LoadPreferences</definition>
+        <argsstring>() </argsstring>
+        <name>LoadPreferences</name>
+        <briefdescription>
+<para>Load the preferences. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="121" column="14" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="121" bodyend="152"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a452f9d1dabef6a4d443f80af717a60eb" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OnGUI</definition>
+        <argsstring>() </argsstring>
+        <name>OnGUI</name>
+        <briefdescription>
+<para>Raises the GUI event. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="175" column="14" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="175" bodyend="434"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1abf1e3c608e59f92dd823eb8d925b4a60" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void OnGUI_Doxygen</definition>
+        <argsstring>() </argsstring>
+        <name>OnGUI_Doxygen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="34" column="14" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="34" bodyend="228"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aa35c9b342138fb62fd6e5cb5f1b8082c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string PathConfig</definition>
+        <argsstring>() </argsstring>
+        <name>PathConfig</name>
+        <briefdescription>
+<para>Return the path of the config. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>The Path.</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="440" column="24" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="440" bodyend="445"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a66f90d8aa6627d3c58fa37c413821cc7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string PathDoxygenConfig</definition>
+        <argsstring>() </argsstring>
+        <name>PathDoxygenConfig</name>
+        <briefdescription>
+<para>Return the path of doxygen config. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>The doxygen Path.</para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="234" column="24" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="234" bodyend="239"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5c3c6b8cf003b0da03afec0541c6ced5" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void RunDoxygen</definition>
+        <argsstring>() </argsstring>
+        <name>RunDoxygen</name>
+        <briefdescription>
+<para>Run doxygen! </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" line="245" column="14" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator_doxygen.cs" bodystart="245" bodyend="702"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ac77ed02a599b36b8bf3779ef68908535" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void SavePreferences</definition>
+        <argsstring>() </argsstring>
+        <name>SavePreferences</name>
+        <briefdescription>
+<para>Save the preferences. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="112" column="14" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="112" bodyend="116"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="38" column="19" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="39" bodyend="447"/>
+    <listofallmembers>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a3ac8443104c638c0b61a841fec5361b4" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>Config</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a7787bfc184572864862cba5d846cf600" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>ConfigList</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1abaa8f77e3be119ecd8144446b9ed292b" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>DeCompress</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1af4de68005ecebdd50b0a3a95b771a2da" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>FinishDoxygen</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aa123de76ad0a6b7d1d8700647adac949" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>k_PathButtonWidth</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab59155c71180c2c659a2a92ebdef3cb8" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>K_PathToDOxygenOSX_key</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a27d6bdeb7202e18d9f3b26f3e9bd22ee" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>K_PathToDOxygenWIN_key</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a334085797211b01dff85f066bfbe9128" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>K_TEXTL_DOXYGEN</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a52d47c7d99e5e807edb0fd97e83b1939" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>K_URL_DOXYGEN</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aac78f64d10530e9c66b36a80b0804e3c" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>kGroupResetState</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a0c5205fb7226436a3bd68a6ca750ee45" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>kSharedInstance</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a8c1de1d8e5dfe78335d819c5adfcc5c2" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>LoadPreferences</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ad7d9716d5d31ecea6d54e73c05c1efe4" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>OnEnable</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a452f9d1dabef6a4d443f80af717a60eb" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>OnGUI</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1abf1e3c608e59f92dd823eb8d925b4a60" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>OnGUI_Doxygen</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a96d9a7d0b0d7e64250be4d87b11d2248" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>OutIsOk</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1aa35c9b342138fb62fd6e5cb5f1b8082c" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>PathConfig</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a66f90d8aa6627d3c58fa37c413821cc7" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>PathDoxygenConfig</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5bac79a047248fc6d5d4b536c2550ee2" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>PrepareWindow</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a5c3c6b8cf003b0da03afec0541c6ced5" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>RunDoxygen</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ac77ed02a599b36b8bf3779ef68908535" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>SavePreferences</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ab18fc7369e955cd707822f599cd2a726" prot="private" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>ScrollPosition</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1ae13b9614dce4bcdd3fcc24354910a4a6" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>SharedInstance</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a081bcc409dad2dc380fa85c9e1c3235d" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>WorkInProgress</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator_1a1bf4af51249f8e35e232f40b0b73da17" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWDocumentationGenerator</scope><name>YesOrNo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

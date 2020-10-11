@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="namespaceDoxygenGeneratorWindow" kind="namespace" language="C#">
+    <compoundname>DoxygenGeneratorWindow</compoundname>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWConfig" prot="public">DoxygenGeneratorWindow::DGWConfig</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWConfigList" prot="public">DoxygenGeneratorWindow::DGWConfigList</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWConstants" prot="public">DoxygenGeneratorWindow::DGWConstants</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWDocumentationGenerator" prot="public">DoxygenGeneratorWindow::DGWDocumentationGenerator</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWEditorMenu" prot="public">DoxygenGeneratorWindow::DGWEditorMenu</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWFindPackage" prot="public">DoxygenGeneratorWindow::DGWFindPackage</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWMacroDefine" prot="public">DoxygenGeneratorWindow::DGWMacroDefine</innerclass>
+    <innerclass refid="classDoxygenGeneratorWindow_1_1DGWToolbox" prot="public">DoxygenGeneratorWindow::DGWToolbox</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespaceDoxygenGeneratorWindow_1a0f776a0aa7d33a4f3663cccf4fdd9ecd" prot="public" static="no" strong="yes">
+        <type>int</type>
+        <name>DGWTools</name>
+        <enumvalue id="namespaceDoxygenGeneratorWindow_1a0f776a0aa7d33a4f3663cccf4fdd9ecda7f20b283fe8e6e7416c8090e0660c2fe" prot="public">
+          <name>Doxygen</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>DGW Documentation generator is a class to generate the documentation by Doxygen automatically After reading comparison at <ulink url="https://en.wikipedia.org/wiki/Comparison_of_documentation_generators">https://en.wikipedia.org/wiki/Comparison_of_documentation_generators</ulink> the challengers for c# with output HTML are ... </para>
+        </briefdescription>
+        <detaileddescription>
+<para><itemizedlist>
+<listitem><para>Document! X (eliminated : no macOS, no linux)</para>
+</listitem><listitem><para>Doxygen</para>
+</listitem><listitem><para>Natural Docs (partial PHP ...)</para>
+</listitem><listitem><para>NDoc (eliminated : no read text as input!)</para>
+</listitem><listitem><para>Visual Expert (eliminated : no macOS, no linux)</para>
+</listitem><listitem><para>VSdocman (eliminated : no macOS, no linux) We decided to use Doxygen beacuse it&apos;s the most easy to use for a proof of concept. We will propose Natural Docs later, because the library is not really usable on macosx</para>
+</listitem></itemizedlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" line="32" column="11" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWDocumentationGenerator.cs" bodystart="33" bodyend="36"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/DGWFindPackage.cs" line="18" column="1"/>
+  </compounddef>
+</doxygen>

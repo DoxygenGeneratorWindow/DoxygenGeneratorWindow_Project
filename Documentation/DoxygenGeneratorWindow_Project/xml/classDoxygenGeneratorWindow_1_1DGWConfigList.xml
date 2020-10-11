@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classDoxygenGeneratorWindow_1_1DGWConfigList" kind="class" language="C#" prot="public">
+    <compoundname>DoxygenGeneratorWindow::DGWConfigList</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfigList_1aa68075c642a7490abe441c811efe9c38" prot="public" static="no" mutable="no">
+        <type>List&lt;DGWConfig&gt;</type>
+        <definition>List&lt;DGWConfig&gt; ConfigList</definition>
+        <argsstring></argsstring>
+        <name>ConfigList</name>
+        <initializer>= new List&lt;DGWConfig&gt;()</initializer>
+        <briefdescription>
+<para>The List. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" line="25" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfigList_1aa63c48313853c05d2e5b345772063942" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Selected</definition>
+        <argsstring></argsstring>
+        <name>Selected</name>
+        <initializer>= 0</initializer>
+        <briefdescription>
+<para>The selected Config </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" line="29" column="20" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWConfigList_1a3497c5c32c519e6bee8646ccfc5896f6" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>DGWConfigList</definition>
+        <argsstring>() </argsstring>
+        <name>DGWConfigList</name>
+        <briefdescription>
+<para>Constructor </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" line="34" column="16" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" bodystart="34" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWConfigList_1a64a5a83fae5a3fad0b05c02a9127416a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>DGWConfig</type>
+        <definition>DGWConfig AddNewConfig</definition>
+        <argsstring>() </argsstring>
+        <name>AddNewConfig</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" line="38" column="26" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" bodystart="38" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWConfigList_1a5160a332fcb9c8f9eee936eebbd4f0da" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>DGWConfig</type>
+        <definition>DGWConfig RemoveConfig</definition>
+        <argsstring>(DGWConfig tConfig) </argsstring>
+        <name>RemoveConfig</name>
+        <param>
+          <type>DGWConfig</type>
+          <declname>tConfig</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" line="47" column="26" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" bodystart="47" bodyend="60"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>DGW config List reccord your config! </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" line="19" column="11" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfigList.cs" bodystart="20" bodyend="62"/>
+    <listofallmembers>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1a64a5a83fae5a3fad0b05c02a9127416a" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfigList</scope><name>AddNewConfig</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1aa68075c642a7490abe441c811efe9c38" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfigList</scope><name>ConfigList</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1a3497c5c32c519e6bee8646ccfc5896f6" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfigList</scope><name>DGWConfigList</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1a5160a332fcb9c8f9eee936eebbd4f0da" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfigList</scope><name>RemoveConfig</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfigList_1aa63c48313853c05d2e5b345772063942" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfigList</scope><name>Selected</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

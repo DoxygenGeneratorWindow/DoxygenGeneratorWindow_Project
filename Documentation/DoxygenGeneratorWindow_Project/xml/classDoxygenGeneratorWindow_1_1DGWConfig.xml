@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classDoxygenGeneratorWindow_1_1DGWConfig" kind="class" language="C#" prot="public">
+    <compoundname>DoxygenGeneratorWindow::DGWConfig</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a5c3dcfc1c2400906e7f18ed049543dde" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool ALPHABETICAL_INDEX</definition>
+        <argsstring></argsstring>
+        <name>ALPHABETICAL_INDEX</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+<para>Is analyze is ALPHABETICAL_INDEX or not?. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="57" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a472d53f7c4288664428e563eecc4ade2" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string FolderName</definition>
+        <argsstring></argsstring>
+        <name>FolderName</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+<para>The name of the folder to analyze. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="29" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a41baab1251054ddbdcca9996e49c2ca9" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string FolderOutput</definition>
+        <argsstring></argsstring>
+        <name>FolderOutput</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+<para>The folder to output the documentation. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="33" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1ac4c8e61a0381850552df0a7a5d8588bf" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool GenerateDocSet</definition>
+        <argsstring></argsstring>
+        <name>GenerateDocSet</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+<para>The generate Doc set. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="65" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a7574a7d4639ff10e9e6b209094857098" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool GenerateHTML</definition>
+        <argsstring></argsstring>
+        <name>GenerateHTML</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+<para>The generate HTML Doc. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="61" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1ae17963bf713651d1a847100f5772ff31" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool GenerateLatex</definition>
+        <argsstring></argsstring>
+        <name>GenerateLatex</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+<para>The generate latex Doc. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="73" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1ae77c5b908955768f409b28fbfdfabb86" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool GenerateRTF</definition>
+        <argsstring></argsstring>
+        <name>GenerateRTF</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+<para>The generate RTF Doc. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="81" column="13" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a3bfb001a8099baeb6ec6345ebccd1a9d" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool GenerateXML</definition>
+        <argsstring></argsstring>
+        <name>GenerateXML</name>
+        <initializer>= false</initializer>
+        <briefdescription>
+<para>The generate XML Doc. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="77" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1ad7059e1c947d816aa5052372ef376581" prot="public" static="no" mutable="no">
+        <type>Color</type>
+        <definition>Color HTMLColor</definition>
+        <argsstring></argsstring>
+        <name>HTMLColor</name>
+        <initializer>= Color.gray</initializer>
+        <briefdescription>
+<para>The tint color of the HTML doc. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="69" column="22" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a98e220d2aa58ce620449040f90e971be" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string ProjectLogo</definition>
+        <argsstring></argsstring>
+        <name>ProjectLogo</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+<para>The logo for project. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="41" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a3fe78671836fb8f22d63f63e0e7865ae" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string ProjectName</definition>
+        <argsstring></argsstring>
+        <name>ProjectName</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+<para>The name of the project. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="37" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1aad02a5539e6fa6b8ca610ac10bc46eca" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string ProjectSynopsis</definition>
+        <argsstring></argsstring>
+        <name>ProjectSynopsis</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+<para>The project synopsis. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="45" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a15a911eb7e938cf68cff61be8f095c9b" prot="public" static="no" mutable="no">
+        <type>string</type>
+        <definition>string ProjectVersion</definition>
+        <argsstring></argsstring>
+        <name>ProjectVersion</name>
+        <initializer>= &quot;&quot;</initializer>
+        <briefdescription>
+<para>The project version. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="49" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a087d066fb97182b1ec164e5103493c9b" prot="public" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Recursive</definition>
+        <argsstring></argsstring>
+        <name>Recursive</name>
+        <initializer>= true</initializer>
+        <briefdescription>
+<para>Is analyze is recursive or not?. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="53" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classDoxygenGeneratorWindow_1_1DGWConfig_1ac5b6002c3cdbbb1cc5911b91f34b1865" prot="public" static="no" mutable="no">
+        <type><ref refid="namespaceDoxygenGeneratorWindow_1a0f776a0aa7d33a4f3663cccf4fdd9ecd" kindref="member">DGWTools</ref></type>
+        <definition>DGWTools UseTools</definition>
+        <argsstring></argsstring>
+        <name>UseTools</name>
+        <initializer>= <ref refid="namespaceDoxygenGeneratorWindow_1a0f776a0aa7d33a4f3663cccf4fdd9ecda7f20b283fe8e6e7416c8090e0660c2fe" kindref="member">DGWTools.Doxygen</ref></initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="24" column="25" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a111475dc4f19bf6be8e22f68ba7c483f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>DGWConfig</definition>
+        <argsstring>() </argsstring>
+        <name>DGWConfig</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="83" column="16" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="83" bodyend="85"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a25e1ad80533fbf1ddec9785e5f5662ae" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void EmptyFill</definition>
+        <argsstring>() </argsstring>
+        <name>EmptyFill</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="87" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="87" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a4afbe4efb2ce34d4e3ea871a703d12b8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>string</type>
+        <definition>string FolderOutputAbsolute</definition>
+        <argsstring>() </argsstring>
+        <name>FolderOutputAbsolute</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="97" column="23" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="97" bodyend="102"/>
+      </memberdef>
+      <memberdef kind="function" id="classDoxygenGeneratorWindow_1_1DGWConfig_1a31730f143952e39be16d00e588e3cc3f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void SetFolderOutputAbsolute</definition>
+        <argsstring>(string sAbsolutePath) </argsstring>
+        <name>SetFolderOutputAbsolute</name>
+        <param>
+          <type>string</type>
+          <declname>sAbsolutePath</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="104" column="21" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="104" bodyend="115"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>DGW config reccord your config... it&apos;s enough! </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" line="21" column="11" bodyfile="Assets/DoxygenGeneratorWindow/Scripts/Editor/DGWConfig.cs" bodystart="22" bodyend="117"/>
+    <listofallmembers>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a5c3dcfc1c2400906e7f18ed049543dde" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>ALPHABETICAL_INDEX</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a111475dc4f19bf6be8e22f68ba7c483f" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>DGWConfig</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a25e1ad80533fbf1ddec9785e5f5662ae" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>EmptyFill</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a472d53f7c4288664428e563eecc4ade2" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>FolderName</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a41baab1251054ddbdcca9996e49c2ca9" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>FolderOutput</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a4afbe4efb2ce34d4e3ea871a703d12b8" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>FolderOutputAbsolute</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ac4c8e61a0381850552df0a7a5d8588bf" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>GenerateDocSet</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a7574a7d4639ff10e9e6b209094857098" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>GenerateHTML</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ae17963bf713651d1a847100f5772ff31" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>GenerateLatex</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ae77c5b908955768f409b28fbfdfabb86" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>GenerateRTF</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a3bfb001a8099baeb6ec6345ebccd1a9d" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>GenerateXML</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ad7059e1c947d816aa5052372ef376581" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>HTMLColor</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a98e220d2aa58ce620449040f90e971be" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>ProjectLogo</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a3fe78671836fb8f22d63f63e0e7865ae" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>ProjectName</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1aad02a5539e6fa6b8ca610ac10bc46eca" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>ProjectSynopsis</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a15a911eb7e938cf68cff61be8f095c9b" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>ProjectVersion</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a087d066fb97182b1ec164e5103493c9b" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>Recursive</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1a31730f143952e39be16d00e588e3cc3f" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>SetFolderOutputAbsolute</name></member>
+      <member refid="classDoxygenGeneratorWindow_1_1DGWConfig_1ac5b6002c3cdbbb1cc5911b91f34b1865" prot="public" virt="non-virtual"><scope>DoxygenGeneratorWindow::DGWConfig</scope><name>UseTools</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
